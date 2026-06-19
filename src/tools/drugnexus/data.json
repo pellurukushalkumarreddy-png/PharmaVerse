@@ -1,0 +1,3278 @@
+{
+ "drugs": {
+  "CHEMBL941": {
+   "id": "CHEMBL941",
+   "name": "IMATINIB",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "493.62",
+   "alogp": "4.59",
+   "hba": 7,
+   "hbd": 2,
+   "psa": "86.28",
+   "ro5": 0,
+   "blackBox": 0
+  },
+  "CHEMBL553": {
+   "id": "CHEMBL553",
+   "name": "ERLOTINIB",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "393.44",
+   "alogp": "3.41",
+   "hba": 7,
+   "hbd": 1,
+   "psa": "74.73",
+   "ro5": 0,
+   "blackBox": 0
+  },
+  "CHEMBL1201585": {
+   "id": "CHEMBL1201585",
+   "name": "TRASTUZUMAB",
+   "type": "Antibody",
+   "maxPhase": "4.0",
+   "mw": null,
+   "alogp": null,
+   "hba": null,
+   "hbd": null,
+   "psa": null,
+   "ro5": null,
+   "blackBox": 1
+  },
+  "CHEMBL3137343": {
+   "id": "CHEMBL3137343",
+   "name": "PEMBROLIZUMAB",
+   "type": "Antibody",
+   "maxPhase": "4.0",
+   "mw": null,
+   "alogp": null,
+   "hba": null,
+   "hbd": null,
+   "psa": null,
+   "ro5": null,
+   "blackBox": 0
+  },
+  "CHEMBL1491": {
+   "id": "CHEMBL1491",
+   "name": "AMLODIPINE",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "408.88",
+   "alogp": "2.27",
+   "hba": 7,
+   "hbd": 2,
+   "psa": "99.88",
+   "ro5": 0,
+   "blackBox": 0
+  },
+  "CHEMBL1487": {
+   "id": "CHEMBL1487",
+   "name": "ATORVASTATIN",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "558.65",
+   "alogp": "6.31",
+   "hba": 5,
+   "hbd": 4,
+   "psa": "111.79",
+   "ro5": 2,
+   "blackBox": 0
+  },
+  "CHEMBL1431": {
+   "id": "CHEMBL1431",
+   "name": "METFORMIN",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "129.17",
+   "alogp": "-1.03",
+   "hba": 2,
+   "hbd": 4,
+   "psa": "88.99",
+   "ro5": 0,
+   "blackBox": 1
+  },
+  "CHEMBL2108724": {
+   "id": "CHEMBL2108724",
+   "name": "SEMAGLUTIDE",
+   "type": "Protein",
+   "maxPhase": "4.0",
+   "mw": null,
+   "alogp": null,
+   "hba": null,
+   "hbd": null,
+   "psa": null,
+   "ro5": null,
+   "blackBox": 1
+  },
+  "CHEMBL502": {
+   "id": "CHEMBL502",
+   "name": "DONEPEZIL",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "379.50",
+   "alogp": "4.36",
+   "hba": 4,
+   "hbd": 0,
+   "psa": "38.77",
+   "ro5": 0,
+   "blackBox": 0
+  },
+  "CHEMBL1009": {
+   "id": "CHEMBL1009",
+   "name": "LEVODOPA",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "197.19",
+   "alogp": "0.05",
+   "hba": 4,
+   "hbd": 4,
+   "psa": "103.78",
+   "ro5": 0,
+   "blackBox": 0
+  },
+  "CHEMBL4065616": {
+   "id": "CHEMBL4065616",
+   "name": "REMDESIVIR",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "602.59",
+   "alogp": "2.31",
+   "hba": 13,
+   "hbd": 4,
+   "psa": "203.55",
+   "ro5": 2,
+   "blackBox": 1
+  },
+  "CHEMBL1259059": {
+   "id": "CHEMBL1259059",
+   "name": "SOFOSBUVIR",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "529.46",
+   "alogp": "1.66",
+   "hba": 10,
+   "hbd": 3,
+   "psa": "158.18",
+   "ro5": 1,
+   "blackBox": 1
+  },
+  "CHEMBL1201580": {
+   "id": "CHEMBL1201580",
+   "name": "ADALIMUMAB",
+   "type": "Antibody",
+   "maxPhase": "4.0",
+   "mw": null,
+   "alogp": null,
+   "hba": null,
+   "hbd": null,
+   "psa": null,
+   "ro5": null,
+   "blackBox": 1
+  },
+  "CHEMBL25": {
+   "id": "CHEMBL25",
+   "name": "ASPIRIN",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "180.16",
+   "alogp": "1.31",
+   "hba": 3,
+   "hbd": 1,
+   "psa": "63.60",
+   "ro5": 0,
+   "blackBox": 0
+  },
+  "CHEMBL1201396": {
+   "id": "CHEMBL1201396",
+   "name": "FLUTICASONE",
+   "type": "Small molecule",
+   "maxPhase": "3.0",
+   "mw": "444.52",
+   "alogp": "3.47",
+   "hba": 5,
+   "hbd": 2,
+   "psa": "74.60",
+   "ro5": 0,
+   "blackBox": 0
+  },
+  "CHEMBL3353410": {
+   "id": "CHEMBL3353410",
+   "name": "OSIMERTINIB",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "499.62",
+   "alogp": "4.51",
+   "hba": 8,
+   "hbd": 2,
+   "psa": "87.55",
+   "ro5": 0,
+   "blackBox": 0
+  },
+  "CHEMBL2108738": {
+   "id": "CHEMBL2108738",
+   "name": "NIVOLUMAB",
+   "type": "Antibody",
+   "maxPhase": "4.0",
+   "mw": null,
+   "alogp": null,
+   "hba": null,
+   "hbd": null,
+   "psa": null,
+   "ro5": null,
+   "blackBox": 0
+  },
+  "CHEMBL848": {
+   "id": "CHEMBL848",
+   "name": "LENALIDOMIDE",
+   "type": "Small molecule",
+   "maxPhase": "4.0",
+   "mw": "259.26",
+   "alogp": "0.03",
+   "hba": 4,
+   "hbd": 2,
+   "psa": "92.50",
+   "ro5": 0,
+   "blackBox": 1
+  },
+  "CHEMBL1201576": {
+   "id": "CHEMBL1201576",
+   "name": "RITUXIMAB",
+   "type": "Antibody",
+   "maxPhase": "4.0",
+   "mw": null,
+   "alogp": null,
+   "hba": null,
+   "hbd": null,
+   "psa": null,
+   "ro5": null,
+   "blackBox": 1
+  },
+  "CHEMBL1201581": {
+   "id": "CHEMBL1201581",
+   "name": "INFLIXIMAB",
+   "type": "Antibody",
+   "maxPhase": "4.0",
+   "mw": null,
+   "alogp": null,
+   "hba": null,
+   "hbd": null,
+   "psa": null,
+   "ro5": null,
+   "blackBox": 1
+  }
+ },
+ "targets": {
+  "CHEMBL1824": {
+   "id": "CHEMBL1824",
+   "name": "Receptor tyrosine-protein kinase erbB-2",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "ERBB2"
+   ],
+   "uniprots": [
+    "Q14256",
+    "Q9UMK4",
+    "B2RZG3"
+   ]
+  },
+  "CHEMBL3307223": {
+   "id": "CHEMBL3307223",
+   "name": "Programmed cell death protein 1",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "PDCD1"
+   ],
+   "uniprots": [
+    "Q8IX89",
+    "O00517",
+    "Q15116"
+   ]
+  },
+  "CHEMBL1784": {
+   "id": "CHEMBL1784",
+   "name": "Glucagon-like peptide 1 receptor",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "GLP1R"
+   ],
+   "uniprots": [
+    "Q2M229",
+    "Q99669",
+    "P43220"
+   ]
+  },
+  "CHEMBL234": {
+   "id": "CHEMBL234",
+   "name": "D(3) dopamine receptor",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "DRD3"
+   ],
+   "uniprots": [
+    "Q4VBM8",
+    "P35462",
+    "A1A4V5"
+   ]
+  },
+  "CHEMBL4303062": {
+   "id": "CHEMBL4303062",
+   "name": "RNA-directed RNA polymerase L",
+   "type": "SINGLE PROTEIN",
+   "organism": "Zaire ebolavirus (strain Mayinga-76) (ZEBOV) (Zaire Ebola virus)",
+   "genes": [
+    "L"
+   ],
+   "uniprots": [
+    "Q8JS59",
+    "Q05318",
+    "Q773N0"
+   ]
+  },
+  "CHEMBL4523582": {
+   "id": "CHEMBL4523582",
+   "name": "Replicase polyprotein 1ab",
+   "type": "SINGLE PROTEIN",
+   "organism": "Severe acute respiratory syndrome coronavirus 2",
+   "genes": [
+    "rep"
+   ],
+   "uniprots": [
+    "P0DTD1"
+   ]
+  },
+  "CHEMBL4296320": {
+   "id": "CHEMBL4296320",
+   "name": "RNA-directed RNA polymerase",
+   "type": "SINGLE PROTEIN",
+   "organism": "Hepacivirus hominis",
+   "genes": [
+    "NS5b"
+   ],
+   "uniprots": [
+    "O39930"
+   ]
+  },
+  "CHEMBL1825": {
+   "id": "CHEMBL1825",
+   "name": "Tumor necrosis factor",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "TNF"
+   ],
+   "uniprots": [
+    "P01375",
+    "Q9UIV3",
+    "O43647"
+   ]
+  },
+  "CHEMBL2094253": {
+   "id": "CHEMBL2094253",
+   "name": "Cyclooxygenase",
+   "type": "PROTEIN FAMILY",
+   "organism": "Homo sapiens",
+   "genes": [
+    "PTGS2",
+    "PTGS1"
+   ],
+   "uniprots": [
+    "Q16876",
+    "Q5T7T7",
+    "P35354"
+   ]
+  },
+  "CHEMBL203": {
+   "id": "CHEMBL203",
+   "name": "Epidermal growth factor receptor",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "EGFR"
+   ],
+   "uniprots": [
+    "Q9GZX1",
+    "Q9H2C9",
+    "O00688"
+   ]
+  },
+  "CHEMBL3833061": {
+   "id": "CHEMBL3833061",
+   "name": "CRL4(CRBN) E3 ubiquitin ligase",
+   "type": "PROTEIN COMPLEX",
+   "organism": "Homo sapiens",
+   "genes": [
+    "DDB1",
+    "CRBN",
+    "CUL4A"
+   ],
+   "uniprots": [
+    "A6NG77",
+    "O15176",
+    "B2R6H4"
+   ]
+  },
+  "CHEMBL2058": {
+   "id": "CHEMBL2058",
+   "name": "B-lymphocyte antigen CD20",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "MS4A1"
+   ],
+   "uniprots": [
+    "A6NMS4",
+    "P11836",
+    "B4DT24"
+   ]
+  },
+  "CHEMBL1862": {
+   "id": "CHEMBL1862",
+   "name": "Tyrosine-protein kinase ABL1",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "ABL1"
+   ],
+   "uniprots": [
+    "P00519",
+    "Q13870",
+    "Q17R61"
+   ]
+  },
+  "CHEMBL1913": {
+   "id": "CHEMBL1913",
+   "name": "Platelet-derived growth factor receptor beta",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "PDGFRB"
+   ],
+   "uniprots": [
+    "B5A957",
+    "Q8N5L4",
+    "P09619"
+   ]
+  },
+  "CHEMBL1936": {
+   "id": "CHEMBL1936",
+   "name": "Mast/stem cell growth factor receptor Kit",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "KIT"
+   ],
+   "uniprots": [
+    "P10721",
+    "D5LXN2",
+    "Q9UM99"
+   ]
+  },
+  "CHEMBL2096618": {
+   "id": "CHEMBL2096618",
+   "name": "Bcr/Abl fusion protein",
+   "type": "CHIMERIC PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "BCR",
+    "ABL1"
+   ],
+   "uniprots": [
+    "P00519",
+    "Q13870",
+    "Q12842"
+   ]
+  },
+  "CHEMBL2095229": {
+   "id": "CHEMBL2095229",
+   "name": "Voltage-gated L-type calcium channel",
+   "type": "PROTEIN FAMILY",
+   "organism": "Homo sapiens",
+   "genes": [
+    "CACNA1F",
+    "CACNA1S",
+    "CACNA1C"
+   ],
+   "uniprots": [
+    "Q13929",
+    "O60840",
+    "Q12896"
+   ]
+  },
+  "CHEMBL402": {
+   "id": "CHEMBL402",
+   "name": "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "HMGCR"
+   ],
+   "uniprots": [
+    "B7Z3Y9",
+    "Q8N190",
+    "P04035"
+   ]
+  },
+  "CHEMBL2363065": {
+   "id": "CHEMBL2363065",
+   "name": "Mitochondrial complex I (NADH dehydrogenase)",
+   "type": "PROTEIN COMPLEX",
+   "organism": "Homo sapiens",
+   "genes": [
+    "NDUFB11",
+    "COXFA4",
+    "NDUFAB1"
+   ],
+   "uniprots": [
+    "O14561",
+    "O75489",
+    "B2R8M6"
+   ]
+  },
+  "CHEMBL3391681": {
+   "id": "CHEMBL3391681",
+   "name": "Glycerol-3-phosphate dehydrogenase, mitochondrial",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "GPD2"
+   ],
+   "uniprots": [
+    "P43304",
+    "Q9HAP9",
+    "A8K4V0"
+   ]
+  },
+  "CHEMBL220": {
+   "id": "CHEMBL220",
+   "name": "Acetylcholinesterase",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "ACHE"
+   ],
+   "uniprots": [
+    "Q29S23",
+    "A4D2E2",
+    "Q2M324"
+   ]
+  },
+  "CHEMBL2034": {
+   "id": "CHEMBL2034",
+   "name": "Glucocorticoid receptor",
+   "type": "SINGLE PROTEIN",
+   "organism": "Homo sapiens",
+   "genes": [
+    "NR3C1"
+   ],
+   "uniprots": [
+    "B0LPG8",
+    "P04150",
+    "D3DQF4"
+   ]
+  }
+ },
+ "diseases": {
+  "EFO:0000220": {
+   "id": "EFO:0000220",
+   "name": "acute lymphoblastic leukemia",
+   "meshId": "D054198",
+   "efoId": "EFO:0000220"
+  },
+  "EFO:0000222": {
+   "id": "EFO:0000222",
+   "name": "acute myeloid leukemia",
+   "meshId": "D015470",
+   "efoId": "EFO:0000222"
+  },
+  "EFO:0000339": {
+   "id": "EFO:0000339",
+   "name": "chronic myelogenous leukemia",
+   "meshId": "D015464",
+   "efoId": "EFO:0000339"
+  },
+  "EFO:0000349": {
+   "id": "EFO:0000349",
+   "name": "clear cell renal carcinoma",
+   "meshId": "D002292",
+   "efoId": "EFO:0000349"
+  },
+  "EFO:0000365": {
+   "id": "EFO:0000365",
+   "name": "colorectal adenocarcinoma",
+   "meshId": "D015179",
+   "efoId": "EFO:0000365"
+  },
+  "EFO:0000497": {
+   "id": "EFO:0000497",
+   "name": "fibromatosis",
+   "meshId": "D005350",
+   "efoId": "EFO:0000497"
+  },
+  "EFO:0000503": {
+   "id": "EFO:0000503",
+   "name": "gastric adenocarcinoma",
+   "meshId": "D013274",
+   "efoId": "EFO:0000503"
+  },
+  "EFO:0000519": {
+   "id": "EFO:0000519",
+   "name": "glioblastoma multiforme",
+   "meshId": "D005909",
+   "efoId": "EFO:0000519"
+  },
+  "EFO:0000565": {
+   "id": "EFO:0000565",
+   "name": "leukemia",
+   "meshId": "D007938",
+   "efoId": "EFO:0000565"
+  },
+  "EFO:0000616": {
+   "id": "EFO:0000616",
+   "name": "neoplasm",
+   "meshId": "D009369",
+   "efoId": "EFO:0000616"
+  },
+  "EFO:0000685": {
+   "id": "EFO:0000685",
+   "name": "rheumatoid arthritis",
+   "meshId": "D001172",
+   "efoId": "EFO:0000685"
+  },
+  "EFO:0000691": {
+   "id": "EFO:0000691",
+   "name": "sarcoma",
+   "meshId": "D012509",
+   "efoId": "EFO:0000691"
+  },
+  "EFO:0000717": {
+   "id": "EFO:0000717",
+   "name": "systemic scleroderma",
+   "meshId": "D012595",
+   "efoId": "EFO:0000717"
+  },
+  "EFO:0000756": {
+   "id": "EFO:0000756",
+   "name": "melanoma",
+   "meshId": "D008545",
+   "efoId": "EFO:0000756"
+  },
+  "EFO:0001361": {
+   "id": "EFO:0001361",
+   "name": "pulmonary arterial hypertension",
+   "meshId": "D006976",
+   "efoId": "EFO:0001361"
+  },
+  "EFO:0000181": {
+   "id": "EFO:0000181",
+   "name": "head and neck squamous cell carcinoma",
+   "meshId": "D002294",
+   "efoId": "EFO:0000181"
+  },
+  "EFO:0002618": {
+   "id": "EFO:0002618",
+   "name": "pancreatic carcinoma",
+   "meshId": "D010190",
+   "efoId": "EFO:0002618"
+  },
+  "EFO:0003060": {
+   "id": "EFO:0003060",
+   "name": "non-small cell lung carcinoma",
+   "meshId": "D002289",
+   "efoId": "EFO:0003060"
+  },
+  "EFO:0000676": {
+   "id": "EFO:0000676",
+   "name": "psoriasis",
+   "meshId": "D011565",
+   "efoId": "EFO:0000676"
+  },
+  "EFO:0000707": {
+   "id": "EFO:0000707",
+   "name": "squamous cell carcinoma",
+   "meshId": "D002294",
+   "efoId": "EFO:0000707"
+  },
+  "EFO:1000028": {
+   "id": "EFO:1000028",
+   "name": "ependymoma",
+   "meshId": "D004806",
+   "efoId": "EFO:1000028"
+  },
+  "EFO:0000198": {
+   "id": "EFO:0000198",
+   "name": "myelodysplastic syndrome",
+   "meshId": "D009190",
+   "efoId": "EFO:0000198"
+  },
+  "EFO:0003868": {
+   "id": "EFO:0003868",
+   "name": "mouth neoplasm",
+   "meshId": "D009062",
+   "efoId": "EFO:0003868"
+  },
+  "EFO:0004220": {
+   "id": "EFO:0004220",
+   "name": "chronic hepatitis C virus infection",
+   "meshId": "D019698",
+   "efoId": "EFO:0004220"
+  },
+  "EFO:0002429": {
+   "id": "EFO:0002429",
+   "name": "polycythemia vera",
+   "meshId": "D011087",
+   "efoId": "EFO:0002429"
+  },
+  "EFO:0000313": {
+   "id": "EFO:0000313",
+   "name": "carcinoma",
+   "meshId": "D002277",
+   "efoId": "EFO:0000313"
+  },
+  "EFO:0000182": {
+   "id": "EFO:0000182",
+   "name": "hepatocellular carcinoma",
+   "meshId": "D006528",
+   "efoId": "EFO:0000182"
+  },
+  "EFO:0000228": {
+   "id": "EFO:0000228",
+   "name": "adenocarcinoma",
+   "meshId": "D000230",
+   "efoId": "EFO:0000228"
+  },
+  "EFO:0000305": {
+   "id": "EFO:0000305",
+   "name": "breast carcinoma",
+   "meshId": "D001943",
+   "efoId": "EFO:0000305"
+  },
+  "EFO:0003869": {
+   "id": "EFO:0003869",
+   "name": "breast neoplasm",
+   "meshId": "D001943",
+   "efoId": "EFO:0003869"
+  },
+  "EFO:0000501": {
+   "id": "EFO:0000501",
+   "name": "follicular thyroid carcinoma",
+   "meshId": "D018263",
+   "efoId": "EFO:0000501"
+  },
+  "EFO:0000549": {
+   "id": "EFO:0000549",
+   "name": "insulinoma",
+   "meshId": "D007340",
+   "efoId": "EFO:0000549"
+  },
+  "EFO:0000637": {
+   "id": "EFO:0000637",
+   "name": "osteosarcoma",
+   "meshId": "D012516",
+   "efoId": "EFO:0000637"
+  },
+  "EFO:0000641": {
+   "id": "EFO:0000641",
+   "name": "papillary thyroid carcinoma",
+   "meshId": "D013964",
+   "efoId": "EFO:0000641"
+  },
+  "EFO:0002617": {
+   "id": "EFO:0002617",
+   "name": "metastatic melanoma",
+   "meshId": "D008545",
+   "efoId": "EFO:0002617"
+  },
+  "EFO:0000681": {
+   "id": "EFO:0000681",
+   "name": "renal cell carcinoma",
+   "meshId": "D002292",
+   "efoId": "EFO:0000681"
+  },
+  "EFO:0003893": {
+   "id": "EFO:0003893",
+   "name": "ovarian neoplasm",
+   "meshId": "D010051",
+   "efoId": "EFO:0003893"
+  },
+  "EFO:0000588": {
+   "id": "EFO:0000588",
+   "name": "mesothelioma",
+   "meshId": "D008654",
+   "efoId": "EFO:0000588"
+  },
+  "EFO:0000183": {
+   "id": "EFO:0000183",
+   "name": "Hodgkins lymphoma",
+   "meshId": "D006689",
+   "efoId": "EFO:0000183"
+  },
+  "EFO:0004252": {
+   "id": "EFO:0004252",
+   "name": "nasopharyngeal neoplasm",
+   "meshId": "D009303",
+   "efoId": "EFO:0004252"
+  },
+  "EFO:0000096": {
+   "id": "EFO:0000096",
+   "name": "neoplasm of mature B-cells",
+   "meshId": "D008224",
+   "efoId": "EFO:0000096"
+  },
+  "EFO:0000319": {
+   "id": "EFO:0000319",
+   "name": "cardiovascular disease",
+   "meshId": "D002318",
+   "efoId": "EFO:0000319"
+  },
+  "EFO:0000537": {
+   "id": "EFO:0000537",
+   "name": "hypertension",
+   "meshId": "D006973",
+   "efoId": "EFO:0000537"
+  },
+  "EFO:0003144": {
+   "id": "EFO:0003144",
+   "name": "heart failure",
+   "meshId": "D006333",
+   "efoId": "EFO:0003144"
+  },
+  "EFO:0004214": {
+   "id": "EFO:0004214",
+   "name": "Abdominal Aortic Aneurysm",
+   "meshId": "D017544",
+   "efoId": "EFO:0004214"
+  },
+  "EFO:0001421": {
+   "id": "EFO:0001421",
+   "name": "liver disease",
+   "meshId": "D008107",
+   "efoId": "EFO:0001421"
+  },
+  "EFO:0000278": {
+   "id": "EFO:0000278",
+   "name": "pancreatitis",
+   "meshId": "D010195",
+   "efoId": "EFO:0000278"
+  },
+  "EFO:0000373": {
+   "id": "EFO:0000373",
+   "name": "congestive heart failure",
+   "meshId": "D006333",
+   "efoId": "EFO:0000373"
+  },
+  "EFO:0000764": {
+   "id": "EFO:0000764",
+   "name": "HIV infection",
+   "meshId": "D015658",
+   "efoId": "EFO:0000764"
+  },
+  "EFO:0003777": {
+   "id": "EFO:0003777",
+   "name": "heart disease",
+   "meshId": "D006331",
+   "efoId": "EFO:0003777"
+  },
+  "EFO:0004234": {
+   "id": "EFO:0004234",
+   "name": "erectile dysfunction",
+   "meshId": "D007172",
+   "efoId": "EFO:0004234"
+  },
+  "EFO:1001145": {
+   "id": "EFO:1001145",
+   "name": "Raynaud disease",
+   "meshId": "D011928",
+   "efoId": "EFO:1001145"
+  },
+  "EFO:1001996": {
+   "id": "EFO:1001996",
+   "name": "Thalassemia",
+   "meshId": "D013789",
+   "efoId": "EFO:1001996"
+  },
+  "EFO:0000400": {
+   "id": "EFO:0000400",
+   "name": "diabetes mellitus",
+   "meshId": "D003920",
+   "efoId": "EFO:0000400"
+  },
+  "EFO:0000538": {
+   "id": "EFO:0000538",
+   "name": "hypertrophic cardiomyopathy",
+   "meshId": "D002312",
+   "efoId": "EFO:0000538"
+  },
+  "EFO:0000612": {
+   "id": "EFO:0000612",
+   "name": "myocardial infarction",
+   "meshId": "D009203",
+   "efoId": "EFO:0000612"
+  },
+  "EFO:0000195": {
+   "id": "EFO:0000195",
+   "name": "metabolic syndrome",
+   "meshId": "D024821",
+   "efoId": "EFO:0000195"
+  },
+  "HP:0003124": {
+   "id": "HP:0003124",
+   "name": "Hypercholesterolemia",
+   "meshId": "D006937",
+   "efoId": "HP:0003124"
+  },
+  "EFO:0000649": {
+   "id": "EFO:0000649",
+   "name": "periodontitis",
+   "meshId": "D010518",
+   "efoId": "EFO:0000649"
+  },
+  "EFO:0003047": {
+   "id": "EFO:0003047",
+   "name": "hepatitis C virus infection",
+   "meshId": "D006526",
+   "efoId": "EFO:0003047"
+  },
+  "EFO:0003914": {
+   "id": "EFO:0003914",
+   "name": "atherosclerosis",
+   "meshId": "D050197",
+   "efoId": "EFO:0003914"
+  },
+  "EFO:0004911": {
+   "id": "EFO:0004911",
+   "name": "familial hypercholesterolemia",
+   "meshId": "D006938",
+   "efoId": "EFO:0004911"
+  },
+  "EFO:0007243": {
+   "id": "EFO:0007243",
+   "name": "Ebola hemorrhagic fever",
+   "meshId": "D019142",
+   "efoId": "EFO:0007243"
+  },
+  "HP:0001258": {
+   "id": "HP:0001258",
+   "name": "Spastic paraplegia",
+   "meshId": "D010264",
+   "efoId": "HP:0001258"
+  },
+  "Orphanet:79211": {
+   "id": "Orphanet:79211",
+   "name": "Combined hyperlipidemia",
+   "meshId": "D006950",
+   "efoId": "Orphanet:79211"
+  },
+  "MONDO:0007254": {
+   "id": "MONDO:0007254",
+   "name": "breast cancer",
+   "meshId": "D001943",
+   "efoId": "MONDO:0007254"
+  },
+  "EFO:0004211": {
+   "id": "EFO:0004211",
+   "name": "Hypertriglyceridemia",
+   "meshId": "D015228",
+   "efoId": "EFO:0004211"
+  },
+  "Orphanet:309005": {
+   "id": "Orphanet:309005",
+   "name": "Disorder of lipid metabolism",
+   "meshId": "D052439",
+   "efoId": "Orphanet:309005"
+  },
+  "Orphanet:413": {
+   "id": "Orphanet:413",
+   "name": "Hyperlipoproteinemia type 4",
+   "meshId": "D006953",
+   "efoId": "Orphanet:413"
+  },
+  "EFO:0004593": {
+   "id": "EFO:0004593",
+   "name": "gestational diabetes",
+   "meshId": "D016640",
+   "efoId": "EFO:0004593"
+  },
+  "EFO:0004566": {
+   "id": "EFO:0004566",
+   "name": "body weight gain",
+   "meshId": "D015430",
+   "efoId": "EFO:0004566"
+  },
+  "EFO:0000095": {
+   "id": "EFO:0000095",
+   "name": "chronic lymphocytic leukemia",
+   "meshId": "D015451",
+   "efoId": "EFO:0000095"
+  },
+  "EFO:0000660": {
+   "id": "EFO:0000660",
+   "name": "polycystic ovary syndrome",
+   "meshId": "D011085",
+   "efoId": "EFO:0000660"
+  },
+  "EFO:0001073": {
+   "id": "EFO:0001073",
+   "name": "obesity",
+   "meshId": "D009765",
+   "efoId": "EFO:0001073"
+  },
+  "EFO:0004265": {
+   "id": "EFO:0004265",
+   "name": "peripheral arterial disease",
+   "meshId": "D058729",
+   "efoId": "EFO:0004265"
+  },
+  "EFO:0000196": {
+   "id": "EFO:0000196",
+   "name": "metastatic prostate cancer",
+   "meshId": "D011471",
+   "efoId": "EFO:0000196"
+  },
+  "EFO:0000673": {
+   "id": "EFO:0000673",
+   "name": "prostate adenocarcinoma",
+   "meshId": "D011471",
+   "efoId": "EFO:0000673"
+  },
+  "EFO:0001663": {
+   "id": "EFO:0001663",
+   "name": "prostate carcinoma",
+   "meshId": "D011471",
+   "efoId": "EFO:0001663"
+  },
+  "Orphanet:733": {
+   "id": "Orphanet:733",
+   "name": "Familial adenomatous polyposis",
+   "meshId": "D011125",
+   "efoId": "Orphanet:733"
+  },
+  "EFO:0003095": {
+   "id": "EFO:0003095",
+   "name": "non-alcoholic fatty liver disease",
+   "meshId": "D065626",
+   "efoId": "EFO:0003095"
+  },
+  "EFO:1001249": {
+   "id": "EFO:1001249",
+   "name": "non-alcoholic steatohepatitis",
+   "meshId": "D065626",
+   "efoId": "EFO:1001249"
+  },
+  "HP:0000938": {
+   "id": "HP:0000938",
+   "name": "Osteopenia",
+   "meshId": "D001851",
+   "efoId": "HP:0000938"
+  },
+  "MONDO:0002009": {
+   "id": "MONDO:0002009",
+   "name": "major depressive disorder",
+   "meshId": "D003865",
+   "efoId": "MONDO:0002009"
+  },
+  "EFO:0001645": {
+   "id": "EFO:0001645",
+   "name": "coronary artery disease",
+   "meshId": "D003327",
+   "efoId": "EFO:0001645"
+  },
+  "MONDO:0004975": {
+   "id": "MONDO:0004975",
+   "name": "Alzheimer disease",
+   "meshId": "D000544",
+   "efoId": "MONDO:0004975"
+  },
+  "MONDO:0004979": {
+   "id": "MONDO:0004979",
+   "name": "asthma",
+   "meshId": "D001249",
+   "efoId": "MONDO:0004979"
+  },
+  "MONDO:0005147": {
+   "id": "MONDO:0005147",
+   "name": "type 1 diabetes mellitus",
+   "meshId": "D003922",
+   "efoId": "MONDO:0005147"
+  },
+  "MONDO:0005148": {
+   "id": "MONDO:0005148",
+   "name": "type 2 diabetes mellitus",
+   "meshId": "D003924",
+   "efoId": "MONDO:0005148"
+  },
+  "MONDO:0005180": {
+   "id": "MONDO:0005180",
+   "name": "Parkinson disease",
+   "meshId": "D010300",
+   "efoId": "MONDO:0005180"
+  },
+  "EFO:0000401": {
+   "id": "EFO:0000401",
+   "name": "diabetic nephropathy",
+   "meshId": "D003928",
+   "efoId": "EFO:0000401"
+  },
+  "EFO:0003768": {
+   "id": "EFO:0003768",
+   "name": "nicotine dependence",
+   "meshId": "D014029",
+   "efoId": "EFO:0003768"
+  },
+  "EFO:0000701": {
+   "id": "EFO:0000701",
+   "name": "skin disease",
+   "meshId": "D012871",
+   "efoId": "EFO:0000701"
+  },
+  "EFO:0000712": {
+   "id": "EFO:0000712",
+   "name": "stroke",
+   "meshId": "D020521",
+   "efoId": "EFO:0000712"
+  },
+  "EFO:0002610": {
+   "id": "EFO:0002610",
+   "name": "cocaine dependence",
+   "meshId": "D019970",
+   "efoId": "EFO:0002610"
+  },
+  "EFO:0003756": {
+   "id": "EFO:0003756",
+   "name": "autism spectrum disorder",
+   "meshId": "D002659",
+   "efoId": "EFO:0003756"
+  },
+  "EFO:0004718": {
+   "id": "EFO:0004718",
+   "name": "vascular dementia",
+   "meshId": "D015140",
+   "efoId": "EFO:0004718"
+  },
+  "EFO:0005230": {
+   "id": "EFO:0005230",
+   "name": "anxiety",
+   "meshId": "D001007",
+   "efoId": "EFO:0005230"
+  },
+  "EFO:0005762": {
+   "id": "EFO:0005762",
+   "name": "neuropathic pain",
+   "meshId": "D009437",
+   "efoId": "EFO:0005762"
+  },
+  "HP:0000726": {
+   "id": "HP:0000726",
+   "name": "Dementia",
+   "meshId": "D003704",
+   "efoId": "HP:0000726"
+  },
+  "HP:0100543": {
+   "id": "HP:0100543",
+   "name": "Cognitive impairment",
+   "meshId": "D060825",
+   "efoId": "HP:0100543"
+  },
+  "Orphanet:240071": {
+   "id": "Orphanet:240071",
+   "name": "Classical progressive supranuclear palsy",
+   "meshId": "D013494",
+   "efoId": "Orphanet:240071"
+  },
+  "EFO:0009267": {
+   "id": "EFO:0009267",
+   "name": "delirium",
+   "meshId": "D003693",
+   "efoId": "EFO:0009267"
+  },
+  "HP:0002381": {
+   "id": "HP:0002381",
+   "name": "Aphasia",
+   "meshId": "D001037",
+   "efoId": "HP:0002381"
+  },
+  "MONDO:0001020": {
+   "id": "MONDO:0001020",
+   "name": "amblyopia",
+   "meshId": "D000550",
+   "efoId": "MONDO:0001020"
+  },
+  "EFO:0000546": {
+   "id": "EFO:0000546",
+   "name": "injury",
+   "meshId": "D014947",
+   "efoId": "EFO:0000546"
+  },
+  "EFO:0004270": {
+   "id": "EFO:0004270",
+   "name": "restless legs syndrome",
+   "meshId": "D012148",
+   "efoId": "EFO:0004270"
+  },
+  "EFO:0001365": {
+   "id": "EFO:0001365",
+   "name": "age-related macular degeneration",
+   "meshId": "D008268",
+   "efoId": "EFO:0001365"
+  },
+  "EFO:0003843": {
+   "id": "EFO:0003843",
+   "name": "pain",
+   "meshId": "D010146",
+   "efoId": "EFO:0003843"
+  },
+  "EFO:0004895": {
+   "id": "EFO:0004895",
+   "name": "Tourette syndrome",
+   "meshId": "D005879",
+   "efoId": "EFO:0004895"
+  },
+  "EFO:0005252": {
+   "id": "EFO:0005252",
+   "name": "orthostatic hypotension",
+   "meshId": "D007024",
+   "efoId": "EFO:0005252"
+  },
+  "EFO:1001919": {
+   "id": "EFO:1001919",
+   "name": "Spinal cord injury",
+   "meshId": "D013119",
+   "efoId": "EFO:1001919"
+  },
+  "MONDO:0043510": {
+   "id": "MONDO:0043510",
+   "name": "brain injury",
+   "meshId": "D001930",
+   "efoId": "MONDO:0043510"
+  },
+  "EFO:0001358": {
+   "id": "EFO:0001358",
+   "name": "post-traumatic stress disorder",
+   "meshId": "D013313",
+   "efoId": "EFO:0001358"
+  },
+  "HP:0003418": {
+   "id": "HP:0003418",
+   "name": "Back pain",
+   "meshId": "D001416",
+   "efoId": "HP:0003418"
+  },
+  "EFO:0000694": {
+   "id": "EFO:0000694",
+   "name": "severe acute respiratory syndrome",
+   "meshId": "D045169",
+   "efoId": "EFO:0000694"
+  },
+  "EFO:1000637": {
+   "id": "EFO:1000637",
+   "name": "acute respiratory distress syndrome",
+   "meshId": "D012128",
+   "efoId": "EFO:1000637"
+  },
+  "EFO:0007541": {
+   "id": "EFO:0007541",
+   "name": "viral pneumonia",
+   "meshId": "D011024",
+   "efoId": "EFO:0007541"
+  },
+  "MONDO:0100096": {
+   "id": "MONDO:0100096",
+   "name": "COVID-19",
+   "meshId": "D045169",
+   "efoId": "MONDO:0100096"
+  },
+  "EFO:0000763": {
+   "id": "EFO:0000763",
+   "name": "viral disease",
+   "meshId": "D014777",
+   "efoId": "EFO:0000763"
+  },
+  "EFO:0007224": {
+   "id": "EFO:0007224",
+   "name": "coronavirus infectious disease",
+   "meshId": "D018352",
+   "efoId": "EFO:0007224"
+  },
+  "EFO:0003106": {
+   "id": "EFO:0003106",
+   "name": "pneumonia",
+   "meshId": "D011014",
+   "efoId": "EFO:0003106"
+  },
+  "EFO:0007328": {
+   "id": "EFO:0007328",
+   "name": "influenza",
+   "meshId": "D007251",
+   "efoId": "EFO:0007328"
+  },
+  "EFO:0000544": {
+   "id": "EFO:0000544",
+   "name": "infection",
+   "meshId": "D007239",
+   "efoId": "EFO:0000544"
+  },
+  "EFO:0000574": {
+   "id": "EFO:0000574",
+   "name": "lymphoma",
+   "meshId": "D008223",
+   "efoId": "EFO:0000574"
+  },
+  "EFO:0004197": {
+   "id": "EFO:0004197",
+   "name": "hepatitis B virus infection",
+   "meshId": "D019694",
+   "efoId": "EFO:0004197"
+  },
+  "EFO:0003898": {
+   "id": "EFO:0003898",
+   "name": "ankylosing spondylitis",
+   "meshId": "D013167",
+   "efoId": "EFO:0003898"
+  },
+  "EFO:0000729": {
+   "id": "EFO:0000729",
+   "name": "ulcerative colitis",
+   "meshId": "D003093",
+   "efoId": "EFO:0000729"
+  },
+  "EFO:0000384": {
+   "id": "EFO:0000384",
+   "name": "Crohn's disease",
+   "meshId": "D003424",
+   "efoId": "EFO:0000384"
+  },
+  "EFO:0004236": {
+   "id": "EFO:0004236",
+   "name": "focal segmental glomerulosclerosis",
+   "meshId": "D005923",
+   "efoId": "EFO:0004236"
+  },
+  "EFO:0003778": {
+   "id": "EFO:0003778",
+   "name": "psoriatic arthritis",
+   "meshId": "D015535",
+   "efoId": "EFO:0003778"
+  },
+  "EFO:0002609": {
+   "id": "EFO:0002609",
+   "name": "juvenile idiopathic arthritis",
+   "meshId": "D001171",
+   "efoId": "EFO:0002609"
+  },
+  "HP:0000999": {
+   "id": "HP:0000999",
+   "name": "Pyoderma",
+   "meshId": "D011711",
+   "efoId": "HP:0000999"
+  },
+  "EFO:0003872": {
+   "id": "EFO:0003872",
+   "name": "colitis",
+   "meshId": "D003092",
+   "efoId": "EFO:0003872"
+  },
+  "EFO:1000710": {
+   "id": "EFO:1000710",
+   "name": "hidradenitis suppurativa",
+   "meshId": "D017497",
+   "efoId": "EFO:1000710"
+  },
+  "EFO:1001231": {
+   "id": "EFO:1001231",
+   "name": "uveitis",
+   "meshId": "D014605",
+   "efoId": "EFO:1001231"
+  },
+  "EFO:0000540": {
+   "id": "EFO:0000540",
+   "name": "immune system disease",
+   "meshId": "D007154",
+   "efoId": "EFO:0000540"
+  },
+  "EFO:0003780": {
+   "id": "EFO:0003780",
+   "name": "Behcet's syndrome",
+   "meshId": "D001528",
+   "efoId": "EFO:0003780"
+  },
+  "EFO:0004229": {
+   "id": "EFO:0004229",
+   "name": "Dupuytren Contracture",
+   "meshId": "D004387",
+   "efoId": "EFO:0004229"
+  },
+  "EFO:0000275": {
+   "id": "EFO:0000275",
+   "name": "atrial fibrillation",
+   "meshId": "D001281",
+   "efoId": "EFO:0000275"
+  },
+  "EFO:0004607": {
+   "id": "EFO:0004607",
+   "name": "duodenal ulcer",
+   "meshId": "D004381",
+   "efoId": "EFO:0004607"
+  },
+  "HP:0001945": {
+   "id": "HP:0001945",
+   "name": "Fever",
+   "meshId": "D005334",
+   "efoId": "HP:0001945"
+  },
+  "EFO:0000545": {
+   "id": "EFO:0000545",
+   "name": "infertility",
+   "meshId": "D007246",
+   "efoId": "EFO:0000545"
+  },
+  "EFO:0000668": {
+   "id": "EFO:0000668",
+   "name": "preeclampsia",
+   "meshId": "D011225",
+   "efoId": "EFO:0000668"
+  },
+  "EFO:0005407": {
+   "id": "EFO:0005407",
+   "name": "psychosis",
+   "meshId": "D011618",
+   "efoId": "EFO:0005407"
+  },
+  "EFO:0004610": {
+   "id": "EFO:0004610",
+   "name": "acute lung injury",
+   "meshId": "D055371",
+   "efoId": "EFO:0004610"
+  },
+  "EFO:0000341": {
+   "id": "EFO:0000341",
+   "name": "chronic obstructive pulmonary disease",
+   "meshId": "D029424",
+   "efoId": "EFO:0000341"
+  },
+  "EFO:0004232": {
+   "id": "EFO:0004232",
+   "name": "eosinophilic esophagitis",
+   "meshId": "D057765",
+   "efoId": "EFO:0004232"
+  },
+  "EFO:0007227": {
+   "id": "EFO:0007227",
+   "name": "croup",
+   "meshId": "D003440",
+   "efoId": "EFO:0007227"
+  },
+  "MONDO:0008903": {
+   "id": "MONDO:0008903",
+   "name": "lung cancer",
+   "meshId": "D008175",
+   "efoId": "MONDO:0008903"
+  },
+  "MONDO:0021117": {
+   "id": "MONDO:0021117",
+   "name": "lung neoplasm",
+   "meshId": "D008175",
+   "efoId": "MONDO:0021117"
+  },
+  "EFO:0003833": {
+   "id": "EFO:0003833",
+   "name": "brain neoplasm",
+   "meshId": "D001932",
+   "efoId": "EFO:0003833"
+  },
+  "MONDO:0004992": {
+   "id": "MONDO:0004992",
+   "name": "cancer",
+   "meshId": "D009369",
+   "efoId": "MONDO:0004992"
+  },
+  "EFO:0005288": {
+   "id": "EFO:0005288",
+   "name": "non-small cell lung adenocarcinoma",
+   "meshId": "D000077192",
+   "efoId": "EFO:0005288"
+  },
+  "MONDO:0005575": {
+   "id": "MONDO:0005575",
+   "name": "colorectal cancer",
+   "meshId": "D015179",
+   "efoId": "MONDO:0005575"
+  },
+  "EFO:0005952": {
+   "id": "EFO:0005952",
+   "name": "non-Hodgkins lymphoma",
+   "meshId": "D008228",
+   "efoId": "EFO:0005952"
+  },
+  "EFO:0000389": {
+   "id": "EFO:0000389",
+   "name": "cutaneous melanoma",
+   "meshId": "D008545",
+   "efoId": "EFO:0000389"
+  },
+  "EFO:0000770": {
+   "id": "EFO:0000770",
+   "name": "malignant pleural mesothelioma",
+   "meshId": "D008654",
+   "efoId": "EFO:0000770"
+  },
+  "EFO:1001469": {
+   "id": "EFO:1001469",
+   "name": "Mantle cell lymphoma",
+   "meshId": "D020522",
+   "efoId": "EFO:1001469"
+  },
+  "HP:0004326": {
+   "id": "HP:0004326",
+   "name": "Cachexia",
+   "meshId": "D002100",
+   "efoId": "HP:0004326"
+  },
+  "EFO:0000191": {
+   "id": "EFO:0000191",
+   "name": "MALT lymphoma",
+   "meshId": "D018442",
+   "efoId": "EFO:0000191"
+  },
+  "EFO:0000294": {
+   "id": "EFO:0000294",
+   "name": "bladder tumor",
+   "meshId": "D001749",
+   "efoId": "EFO:0000294"
+  },
+  "EFO:0001378": {
+   "id": "EFO:0001378",
+   "name": "multiple myeloma",
+   "meshId": "D009101",
+   "efoId": "EFO:0001378"
+  },
+  "EFO:0004272": {
+   "id": "EFO:0004272",
+   "name": "anemia (phenotype)",
+   "meshId": "D000740",
+   "efoId": "EFO:0004272"
+  },
+  "EFO:0004599": {
+   "id": "EFO:0004599",
+   "name": "acute graft vs. host disease",
+   "meshId": "D006086",
+   "efoId": "EFO:0004599"
+  },
+  "EFO:0004540": {
+   "id": "EFO:0004540",
+   "name": "chronic fatigue syndrome",
+   "meshId": "D015673",
+   "efoId": "EFO:0004540"
+  },
+  "EFO:0004254": {
+   "id": "EFO:0004254",
+   "name": "membranous glomerulonephritis",
+   "meshId": "D015433",
+   "efoId": "EFO:0004254"
+  },
+  "EFO:0005297": {
+   "id": "EFO:0005297",
+   "name": "Granulomatosis with Polyangiitis",
+   "meshId": "D014890",
+   "efoId": "EFO:0005297"
+  },
+  "EFO:0000403": {
+   "id": "EFO:0000403",
+   "name": "diffuse large B-cell lymphoma",
+   "meshId": "D016403",
+   "efoId": "EFO:0000403"
+  },
+  "EFO:0003086": {
+   "id": "EFO:0003086",
+   "name": "kidney disease",
+   "meshId": "D007674",
+   "efoId": "EFO:0003086"
+  },
+  "EFO:0001065": {
+   "id": "EFO:0001065",
+   "name": "endometriosis",
+   "meshId": "D004715",
+   "efoId": "EFO:0001065"
+  },
+  "EFO:0004246": {
+   "id": "EFO:0004246",
+   "name": "mucocutaneous lymph node syndrome",
+   "meshId": "D009080",
+   "efoId": "EFO:0004246"
+  },
+  "EFO:0000706": {
+   "id": "EFO:0000706",
+   "name": "spondyloarthropathy",
+   "meshId": "D025242",
+   "efoId": "EFO:0000706"
+  },
+  "EFO:0007168": {
+   "id": "EFO:0007168",
+   "name": "berylliosis",
+   "meshId": "D001607",
+   "efoId": "EFO:0007168"
+  }
+ },
+ "moaLinks": [
+  {
+   "drugId": "CHEMBL1201585",
+   "targetId": "CHEMBL1824",
+   "action": "INHIBITOR",
+   "mechanism": "Receptor protein-tyrosine kinase erbB-2 inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "targetId": "CHEMBL3307223",
+   "action": "INHIBITOR",
+   "mechanism": "Programmed cell death protein 1 inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "targetId": "CHEMBL1784",
+   "action": "AGONIST",
+   "mechanism": "Glucagon-like peptide 1 receptor agonist",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "targetId": "CHEMBL234",
+   "action": "AGONIST",
+   "mechanism": "Dopamine D3 receptor agonist",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "targetId": "CHEMBL4303062",
+   "action": "INHIBITOR",
+   "mechanism": "RNA-directed RNA polymerase L inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "targetId": "CHEMBL4523582",
+   "action": "INHIBITOR",
+   "mechanism": "Replicase polyprotein 1ab inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL1259059",
+   "targetId": "CHEMBL4296320",
+   "action": "INHIBITOR",
+   "mechanism": "RNA-directed RNA polymerase inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "targetId": "CHEMBL1825",
+   "action": "INHIBITOR",
+   "mechanism": "TNF-alpha inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL25",
+   "targetId": "CHEMBL2094253",
+   "action": "INHIBITOR",
+   "mechanism": "Cyclooxygenase inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "targetId": "CHEMBL203",
+   "action": "INHIBITOR",
+   "mechanism": "Epidermal growth factor receptor erbB1 inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "targetId": "CHEMBL3307223",
+   "action": "INHIBITOR",
+   "mechanism": "Programmed cell death protein 1 inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL848",
+   "targetId": "CHEMBL3833061",
+   "action": "INHIBITOR",
+   "mechanism": "CRL4(CRBN) E3 ubiquitin ligase inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "targetId": "CHEMBL2058",
+   "action": "BINDING AGENT",
+   "mechanism": "B-lymphocyte antigen CD20 binding agent",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "targetId": "CHEMBL1825",
+   "action": "INHIBITOR",
+   "mechanism": "TNF-alpha inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL941",
+   "targetId": "CHEMBL1862",
+   "action": "INHIBITOR",
+   "mechanism": "Tyrosine-protein kinase ABL inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL941",
+   "targetId": "CHEMBL1913",
+   "action": "INHIBITOR",
+   "mechanism": "Platelet-derived growth factor receptor beta inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL941",
+   "targetId": "CHEMBL1936",
+   "action": "INHIBITOR",
+   "mechanism": "Stem cell growth factor receptor inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL941",
+   "targetId": "CHEMBL2096618",
+   "action": "INHIBITOR",
+   "mechanism": "Bcr/Abl fusion protein inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL553",
+   "targetId": "CHEMBL203",
+   "action": "INHIBITOR",
+   "mechanism": "Epidermal growth factor receptor erbB1 inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "targetId": "CHEMBL2095229",
+   "action": "BLOCKER",
+   "mechanism": "Voltage-gated L-type calcium channel blocker",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "targetId": "CHEMBL402",
+   "action": "INHIBITOR",
+   "mechanism": "HMG-CoA reductase inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "targetId": "CHEMBL2363065",
+   "action": "INHIBITOR",
+   "mechanism": "Mitochondrial complex I (NADH dehydrogenase) inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "targetId": "CHEMBL3391681",
+   "action": "INHIBITOR",
+   "mechanism": "Mitochondrial glycerol-3-phosphate dehydrogenase inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL502",
+   "targetId": "CHEMBL220",
+   "action": "INHIBITOR",
+   "mechanism": "Acetylcholinesterase inhibitor",
+   "direct": 1
+  },
+  {
+   "drugId": "CHEMBL1201396",
+   "targetId": "CHEMBL2034",
+   "action": "AGONIST",
+   "mechanism": "Glucocorticoid receptor agonist",
+   "direct": 1
+  }
+ ],
+ "indLinks": [
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000220",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000222",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000339",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000349",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000365",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000497",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000503",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000519",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000565",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000616",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000685",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000691",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000717",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0000756",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "diseaseId": "EFO:0001361",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0000616",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0000181",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0002618",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0003060",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0000565",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0000676",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0000707",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:1000028",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0000198",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0003868",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0004220",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0002429",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0000313",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0000182",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "diseaseId": "EFO:0000222",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000228",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000305",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000313",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000616",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0003060",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0003869",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000222",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000501",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000503",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000549",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000565",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000637",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000641",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0000691",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201585",
+   "diseaseId": "EFO:0002618",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0000756",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0003060",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0002618",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0002617",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0000681",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0003893",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0000616",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0000181",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0000182",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0000503",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0000588",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0000183",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0000305",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0004252",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL3137343",
+   "diseaseId": "EFO:0000096",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0000319",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0000537",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0003144",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0004214",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0001421",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0000278",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0000373",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0000764",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0003777",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0004234",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:1001145",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:1001996",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0000400",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0000538",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1491",
+   "diseaseId": "EFO:0000612",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "EFO:0000319",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "EFO:0000195",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "HP:0003124",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "EFO:0000649",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "EFO:0003047",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "EFO:0003914",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "EFO:0004911",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "EFO:0007243",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "HP:0001258",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "Orphanet:79211",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "MONDO:0007254",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "EFO:0000400",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "EFO:0004211",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "Orphanet:309005",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "diseaseId": "Orphanet:413",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0004593",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0004566",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0000400",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0000095",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0000195",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0000305",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0000660",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0001073",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0004265",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0000196",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0000616",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0000673",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0001663",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "EFO:0003060",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1431",
+   "diseaseId": "Orphanet:733",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "EFO:0000400",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "EFO:0001073",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "EFO:0003095",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "EFO:1001249",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "HP:0000938",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "MONDO:0002009",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "EFO:0001645",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "MONDO:0004975",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "MONDO:0004979",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "MONDO:0005147",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "MONDO:0005148",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "MONDO:0005180",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "EFO:0000401",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "EFO:0000660",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL2108724",
+   "diseaseId": "EFO:0003768",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "EFO:0000701",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "EFO:0000712",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "EFO:0002610",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "EFO:0003756",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "EFO:0003768",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "EFO:0004718",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "EFO:0005230",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "EFO:0005762",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "HP:0000726",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "HP:0100543",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "Orphanet:240071",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "EFO:0009267",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "HP:0002381",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "MONDO:0001020",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "diseaseId": "EFO:0000546",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "EFO:0002610",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "EFO:0004270",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "EFO:0000712",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "EFO:0001365",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "EFO:0003756",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "EFO:0003843",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "EFO:0004895",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "EFO:0005252",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "EFO:1001919",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "EFO:0003768",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "HP:0002381",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "MONDO:0001020",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "MONDO:0043510",
+   "maxPhaseForInd": "0.5"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "EFO:0001358",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1009",
+   "diseaseId": "HP:0003418",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "diseaseId": "EFO:0007243",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "diseaseId": "EFO:0000694",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "diseaseId": "EFO:1000637",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "diseaseId": "EFO:0007541",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "diseaseId": "MONDO:0100096",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "diseaseId": "EFO:0000763",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "diseaseId": "EFO:0007224",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "diseaseId": "EFO:0003106",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "diseaseId": "EFO:0007328",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "diseaseId": "MONDO:0100096",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1259059",
+   "diseaseId": "EFO:0003047",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1259059",
+   "diseaseId": "EFO:0004220",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1259059",
+   "diseaseId": "EFO:0000544",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1259059",
+   "diseaseId": "EFO:0000574",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1259059",
+   "diseaseId": "EFO:0004197",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1259059",
+   "diseaseId": "EFO:0000763",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1259059",
+   "diseaseId": "EFO:0000694",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1259059",
+   "diseaseId": "MONDO:0100096",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0003898",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0000676",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0000685",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0000729",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0000384",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0004236",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0003778",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0002609",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "HP:0000999",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0003872",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:1000710",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:1001231",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0000540",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0003780",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201580",
+   "diseaseId": "EFO:0004229",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0000275",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0004607",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "HP:0001945",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0000537",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0004265",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0000545",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0000712",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0003843",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0000668",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0000707",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0000319",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0005407",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0003144",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0001361",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "diseaseId": "EFO:0004610",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201396",
+   "diseaseId": "EFO:0000341",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201396",
+   "diseaseId": "EFO:0000400",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1201396",
+   "diseaseId": "EFO:0004232",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201396",
+   "diseaseId": "EFO:0007227",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201396",
+   "diseaseId": "MONDO:0004979",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "EFO:0003060",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "EFO:0000616",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "EFO:0000228",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "EFO:0000707",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "EFO:0000313",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "EFO:0000519",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "MONDO:0008903",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "MONDO:0021117",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "EFO:0003833",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "MONDO:0004992",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "EFO:0005288",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "diseaseId": "MONDO:0005575",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0005952",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0003060",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0000756",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0000389",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0002617",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0000181",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0000574",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0000616",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0000681",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0003833",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0000305",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0000691",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0000222",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0000519",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL2108738",
+   "diseaseId": "EFO:0000770",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:1001469",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "HP:0004326",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0000540",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0000095",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0000182",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0000183",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0000191",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0000198",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0000222",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0000294",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0000565",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0000574",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0001378",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0004272",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL848",
+   "diseaseId": "EFO:0000616",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0004599",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0004540",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0000183",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0000574",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0004254",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0000096",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0005952",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0000685",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0000717",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0000191",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0002617",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0005297",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0000095",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0000403",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201576",
+   "diseaseId": "EFO:0003086",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0003898",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0000384",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0001065",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0000676",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0000685",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0000729",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0003047",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0004232",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0004246",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0003778",
+   "maxPhaseForInd": "4.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0000706",
+   "maxPhaseForInd": "2.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0007168",
+   "maxPhaseForInd": "1.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0003780",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0003872",
+   "maxPhaseForInd": "3.0"
+  },
+  {
+   "drugId": "CHEMBL1201581",
+   "diseaseId": "EFO:0004599",
+   "maxPhaseForInd": "3.0"
+  }
+ ],
+ "bioactivities": [
+  {
+   "drugId": "CHEMBL2108724",
+   "targetId": "CHEMBL1784",
+   "type": "IC50",
+   "value": "0.38",
+   "units": "nM",
+   "pchembl": "9.42"
+  },
+  {
+   "drugId": "CHEMBL4065616",
+   "targetId": "CHEMBL4523582",
+   "type": "IC50",
+   "value": "1560.0",
+   "units": "nM",
+   "pchembl": "5.81"
+  },
+  {
+   "drugId": "CHEMBL1259059",
+   "targetId": "CHEMBL4296320",
+   "type": "EC50",
+   "value": "589.0",
+   "units": "nM",
+   "pchembl": "6.23"
+  },
+  {
+   "drugId": "CHEMBL25",
+   "targetId": "CHEMBL2094253",
+   "type": "IC50",
+   "value": "15000.0",
+   "units": "nM",
+   "pchembl": "4.82"
+  },
+  {
+   "drugId": "CHEMBL3353410",
+   "targetId": "CHEMBL203",
+   "type": "IC50",
+   "value": "15000.0",
+   "units": "nM",
+   "pchembl": "4.82"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "targetId": "CHEMBL1862",
+   "type": "IC50",
+   "value": "38.0",
+   "units": "nM",
+   "pchembl": "7.42"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "targetId": "CHEMBL1913",
+   "type": "IC50",
+   "value": "240.0",
+   "units": "nM",
+   "pchembl": "6.62"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "targetId": "CHEMBL1936",
+   "type": "IC50",
+   "value": "260.0",
+   "units": "nM",
+   "pchembl": "6.58"
+  },
+  {
+   "drugId": "CHEMBL941",
+   "targetId": "CHEMBL2096618",
+   "type": "IC50",
+   "value": "1.1",
+   "units": "nM",
+   "pchembl": "8.96"
+  },
+  {
+   "drugId": "CHEMBL553",
+   "targetId": "CHEMBL203",
+   "type": "IC50",
+   "value": "1450.0",
+   "units": "nM",
+   "pchembl": "5.84"
+  },
+  {
+   "drugId": "CHEMBL1487",
+   "targetId": "CHEMBL402",
+   "type": "IC50",
+   "value": "6.0",
+   "units": "nM",
+   "pchembl": "8.22"
+  },
+  {
+   "drugId": "CHEMBL502",
+   "targetId": "CHEMBL220",
+   "type": "IC50",
+   "value": "2.33",
+   "units": "nM",
+   "pchembl": "8.63"
+  },
+  {
+   "drugId": "CHEMBL1201396",
+   "targetId": "CHEMBL2034",
+   "type": "IC50",
+   "value": "0.15",
+   "units": "nM",
+   "pchembl": "9.82"
+  }
+ ]
+}

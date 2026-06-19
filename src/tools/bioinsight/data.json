@@ -1,0 +1,1169 @@
+{
+ "articles": [
+  {
+   "pmid": "41543272",
+   "title": "Non-Viral CRISPR carriers: transient delivery with lasting effects.",
+   "authors": [
+    "Lummerstorfer M",
+    "L\u00e4chelt U"
+   ],
+   "journal": "Drug Deliv",
+   "pubDate": "2026 Dec 31",
+   "doi": "10.1080/10717544.2026.2614125",
+   "topic": "CRISPR Gene Therapy",
+   "abstract": "CRISPR-Cas9 has revolutionized the field of genome editing. While conventional gene supplementation therapies and the market of related gene therapy products are dominated by viral vectors, non-viral delivery strategies are increasingly being explored for in vivo CRISPR applications. Given the permanent nature of genome editing, prolonged expression of the CRISPR machinery is not required, and tra",
+   "keywords": [
+    "CRISPR",
+    "clinical trials",
+    "genome editing",
+    "lipid nanoparticles"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41986248",
+   "title": "Direct neuronal reprogramming: emerging therapeutic strategies for neurodegenerative disorders.",
+   "authors": [
+    "Tyagi A",
+    "Prabhu V",
+    "Agarwal P"
+   ],
+   "journal": "Ann Med",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/07853890.2026.2654230",
+   "topic": "CRISPR Gene Therapy",
+   "abstract": "BACKGROUND: Treatment of brain injuries and neurodegenerative disorders is a critical challenge due to poor regenerative capabilities of the central nervous system. The current therapeutic strategies are primarily focussed on treating the symptoms than addressing the core issue of loss of neurons. Despite advances in stem cell therapies and surgical alternatives, they are not always successful due",
+   "keywords": [
+    "CRISPR",
+    "Cell plasticity",
+    "autologous therapy",
+    "personalised medicine"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41955126",
+   "title": "Cost-effectiveness of exagamglogene autotemcel gene-edited therapy in patients with transfusion-dependent \u03b2-thalassemia in the United States.",
+   "authors": [
+    "Udeze C",
+    "Gargano M",
+    "Yang H"
+   ],
+   "journal": "J Med Econ",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/13696998.2026.2649528",
+   "topic": "CRISPR Gene Therapy",
+   "abstract": "AIMS: Exagamglogene autotemcel (exa-cel) is a one-time nonviral gene-edited therapy approved in the United States (US) for treatment of patients aged \u226512 with transfusion-dependent \u03b2-thalassemia (TDT). Standard of care (SOC) for TDT includes regular red blood cell transfusions (RBCTs) and iron chelation therapy. This study estimated long-term clinical outcomes and cost-effectiveness of exa-cel vs.",
+   "keywords": [
+    "C50",
+    "Cost-effectiveness analysis",
+    "D61",
+    "H51"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41838943",
+   "title": "Accelerated mutator phenotype in a clinical Aspergillus fumigatus isolate contributes to adaptive evolution.",
+   "authors": [
+    "Song Y",
+    "Hokken MWJ",
+    "Zoll J"
+   ],
+   "journal": "Emerg Microbes Infect",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/22221751.2026.2627078",
+   "topic": "CRISPR Gene Therapy",
+   "abstract": "The opportunistic pathogen Aspergillus fumigatus represents a major threat to immunocompromised individuals and is increasingly resistant to antifungal therapies. Resistance selection primarily takes place through environmental selection to azole fungicides, but in-host resistance may develop in patients with chronic aspergillosis receiving azole therapy. In this study, we examine clinical A. fumi",
+   "keywords": [
+    "Aspergillus fumigatus",
+    "Mre11",
+    "antifungal resistance",
+    "azole therapy"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41730016",
+   "title": "Cost-effectiveness of exagamglogene autotemcel gene-edited therapy in patients with sickle cell disease with recurrent vaso-occlusive crises in the United States.",
+   "authors": [
+    "Lopez A",
+    "Gargano M",
+    "Yang H"
+   ],
+   "journal": "J Med Econ",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/13696998.2026.2624971",
+   "topic": "CRISPR Gene Therapy",
+   "abstract": "OBJECTIVE: Exagamglogene autotemcel (exa-cel) is a one-time nonviral gene-edited therapy approved in the United States (US) for treatment of patients aged \u226512\u2009years with sickle cell disease (SCD) with recurrent vaso-occlusive crises (VOCs). Standard of care (SOC) for SCD includes symptomatic care, hydroxyurea and/or red blood cell transfusions. This study estimated the long-term clinical outcomes ",
+   "keywords": [
+    "Cost-effectiveness",
+    "United States",
+    "economic evaluation",
+    "exagamglogene autotemcel"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41931965",
+   "title": "An epigenetically enhanced whole-cell vaccine in a stimulatory hydrogel for robust antitumor immunity.",
+   "authors": [
+    "Li X",
+    "Zong X",
+    "Yuan P"
+   ],
+   "journal": "Biomaterials",
+   "pubDate": "2026 Oct",
+   "doi": "10.1016/j.biomaterials.2026.124173",
+   "topic": "CRISPR Gene Therapy",
+   "abstract": "Inadequate antigen presentation, driven by epigenetic repression of major histocompatibility complex class I (MHC-I), represents a fundamental barrier to effective cancer immunotherapy. Here, we identify polycomb group ring finger 1 (PCGF1) as a tumor cell-intrinsic epigenetic repressor of MHC-I through a genome-wide CRISPR screen. Genetic ablation of PCGF1 alone is sufficient to relieve repressiv",
+   "keywords": [
+    "Antitumor immunity",
+    "CRISPR activation",
+    "Epigenetic regulation",
+    "MHC-I antigen presentation"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42140456",
+   "title": "Micropeptides in Cancer and Immunity: Diagnostic, Therapeutic, and Synthetic Biology Frontiers.",
+   "authors": [
+    "Majzoub RE",
+    "Wehbe R",
+    "Said HE"
+   ],
+   "journal": "Gene",
+   "pubDate": "2026 Aug 20",
+   "doi": "10.1016/j.gene.2026.150217",
+   "topic": "CRISPR Gene Therapy",
+   "abstract": "Micropeptides are emerging as a previously hidden layer of the human proteome, redefining the long-standing separation between coding and noncoding genomic regions. Once dismissed as translational noise, sORFs embedded within lncRNAs, circRNAs, pseudogenes, and UTRs are now recognized as a reservoir of functional peptides that regulate core cellular programs, including metabolism, mitochondrial fu",
+   "keywords": [
+    "Micropeptides",
+    "circular RNAs (circRNAs)",
+    "immunoregulation",
+    "long noncoding RNAs (lncRNAs)"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "42081962",
+   "title": "Angiotensin II type 1 receptor blockade inhibits gastric cancer metastasis through tight junction restoration.",
+   "authors": [
+    "Kakkat S",
+    "Suman P",
+    "Goswami S"
+   ],
+   "journal": "Cancer Lett",
+   "pubDate": "2026 Aug 10",
+   "doi": "10.1016/j.canlet.2026.218530",
+   "topic": "CRISPR Gene Therapy",
+   "abstract": "Cell-Cell adhesion maintained by tight junctions (TJs) is essential for epithelial integrity; loss of TJs correlates with poor prognosis, metastasis, and adverse clinical outcome in gastric cancer (GC). Restoring TJ integrity is therefore considered a promising therapeutic strategy in GC. The study identifies the stomach renin angiotensin system (stRAS) as a crucial regulator of TJ function in GC.",
+   "keywords": [
+    "Angiotensin II receptor type 1",
+    "Gastric cancer",
+    "Kruppel-like factor 4",
+    "Metastasis"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41863932",
+   "title": "From natural templates to precision tools: Alkaloid-derived probes in elucidating signaling and disease biology.",
+   "authors": [
+    "He Z",
+    "Yang J",
+    "Kuang S"
+   ],
+   "journal": "Talanta",
+   "pubDate": "2026 Aug 1",
+   "doi": "10.1016/j.talanta.2026.129690",
+   "topic": "CRISPR Gene Therapy",
+   "abstract": "Alkaloids are a class of plant secondary metabolites with diverse structures and broad biological activities, serving as a crucial source for drug discovery. Currently, the research paradigm in this field is shifting from traditional structure-activity relationship (SAR) analysis to the development of systematic chemical probes. This review systematically elaborates on the core strategies and appl",
+   "keywords": [
+    "Alkaloids",
+    "Chemical probe",
+    "Cytoskeletal dynamics",
+    "Structure-activity relationship"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41830765",
+   "title": "Extracellular vesicles-mediated delivery of SpCas9 RNPs for therapeutic gene editing in Spinocerebellar Ataxia Type 3.",
+   "authors": [
+    "Leandro K",
+    "Rufino-Ramos D",
+    "Lopes SM"
+   ],
+   "journal": "Biomaterials",
+   "pubDate": "2026 Aug",
+   "doi": "10.1016/j.biomaterials.2026.124119",
+   "topic": "CRISPR Gene Therapy",
+   "abstract": "Spinocerebellar Ataxia Type 3 (SCA3) is a neurodegenerative dominantly-inherited disorder caused by an overexpansion of a CAG tract within the ATXN3 gene, conferring toxic properties to the ataxin-3 protein. Genome editing with CRISPR-Cas9 enzymes is a promising strategy to inactivate mutant ATXN3 alleles, however, in vivo delivery remains challenging. Extracellular vesicles (EVs) are promising de",
+   "keywords": [
+    "CRISPR-Cas9",
+    "Extracellular vesicles",
+    "Gene editing",
+    "Machado-Joseph disease"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41275875",
+   "title": "Orforglipron, an oral small-molecule GLP-1 receptor agonist, for the treatment of obesity in people with type 2 diabetes (ATTAIN-2): a phase 3, double-blind, randomised, multicentre, placebo-controlle",
+   "authors": [
+    "Horn DB",
+    "Ryan DH",
+    "Kis SG"
+   ],
+   "journal": "Lancet",
+   "pubDate": "2026 Dec 20",
+   "doi": "10.1016/S0140-6736(25)02165-8",
+   "topic": "GLP-1 & Obesity",
+   "abstract": "BACKGROUND: Obesity is a chronic disease that significantly contributes to type 2 diabetes and its complications. We aimed to evaluate orforglipron, an oral small-molecule (non-peptide) GLP-1 receptor agonist, for obesity treatment in adults with type 2 diabetes. METHODS: This 72-week, phase 3, double-blind, placebo-controlled trial was conducted across 136 sites in ten countries. Participants wit",
+   "keywords": [],
+   "pubTypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "42012820",
+   "title": "Cost-effectiveness of tirzepatide versus semaglutide for patients with obesity or overweight in the US: evidence from the SURMOUNT-5 head-to-head phase-3 trial.",
+   "authors": [
+    "Johansson E",
+    "Wilding JPH",
+    "Upadhyay N"
+   ],
+   "journal": "J Med Econ",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/13696998.2026.2646078",
+   "topic": "GLP-1 & Obesity",
+   "abstract": "PURPOSE: This study evaluated the cost-effectiveness (from the United States [US] societal perspective) of tirzepatide at its maximum-tolerated-dose (MTD) compared to semaglutide (MTD), both administered adjunct to a reduced-calorie diet and increased physical activity. The analysis focused on individuals with obesity (body mass index [BMI]\u2009\u2265\u200930\u2009kg/m2), or overweight (BMI \u226527 to <30\u2009kg/m2 + \u22651 obe",
+   "keywords": [
+    "Mounjaro",
+    "SURMOUNT-5",
+    "Wegovy",
+    "obesity"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Clinical Trial, Phase III"
+   ]
+  },
+  {
+   "pmid": "41999297",
+   "title": "GLP-1 receptor agonists in stroke prevention: a narrative review on emerging therapeutic frontiers.",
+   "authors": [
+    "Chikatimalla R",
+    "Shah A",
+    "Shah T"
+   ],
+   "journal": "Ann Med",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/07853890.2026.2660386",
+   "topic": "GLP-1 & Obesity",
+   "abstract": "OBJECTIVES: To evaluate the current evidence supporting the cerebrovascular protective effects of glucagon-like peptide-1 receptor agonists (GLP-1RAs) in individuals with type 2 diabetes mellitus (T2DM), and to outline their mechanisms of action in stroke prevention. METHODS: A narrative review was conducted by synthesising data from cardiovascular outcome trials, meta-analyses and mechanistic stu",
+   "keywords": [
+    "Stroke",
+    "cerebrovascular circulation",
+    "glucagon-like peptide 1 receptor agonists",
+    "neuroprotection"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41562647",
+   "title": "Calculating cost per event avoided using a composite number needed to treat.",
+   "authors": [
+    "Toliver J",
+    "Wang J",
+    "Bhavsar J"
+   ],
+   "journal": "J Med Econ",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/13696998.2026.2615606",
+   "topic": "GLP-1 & Obesity",
+   "abstract": "OBJECTIVE: Number needed to treat (NNT) and cost per event avoided (CPEA) are measures used to represent the clinical and economic value of chronic treatments and are commonly calculated based on primary endpoints from trials. This approach, although widely used, does not reflect the complete value of a treatment, as it does not consider outcomes beyond the primary endpoints. This research aims to",
+   "keywords": [
+    "Pharmacoeconomics",
+    "cardiovascular disease",
+    "disease management",
+    "health economics"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42165084",
+   "title": "Glucagon-like peptide-1 receptor agonists for weight loss in end-stage heart failure patients considered for heart transplantation.",
+   "authors": [
+    "Jeyakumar S",
+    "Jeyakumar R",
+    "Eckford H"
+   ],
+   "journal": "JHLT Open",
+   "pubDate": "2026 Aug",
+   "doi": "10.1016/j.jhlto.2026.100559",
+   "topic": "GLP-1 & Obesity",
+   "abstract": "Severe obesity is a relative exclusion criterion for heart transplantation. This study assessed glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for weight loss as a bridge to heart transplantation candidacy. A retrospective study of end-stage heart\u00a0failure (ESHF) outpatients commenced on semaglutide compared demographic, metabolic, and transplant listing data pre- and post-treatment. Nine pa",
+   "keywords": [
+    "GLP-1 receptor agonists",
+    "Heart transplantation",
+    "Pre-transplant optimization",
+    "Transplant candidacy"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42088447",
+   "title": "Effects of GLP-1 receptor agonists on cardiometabolic outcomes in heart transplant recipients: A systematic review and meta-analysis of observational studies.",
+   "authors": [
+    "Dalal N",
+    "Saxena A",
+    "Mohsen A"
+   ],
+   "journal": "JHLT Open",
+   "pubDate": "2026 Aug",
+   "doi": "10.1016/j.jhlto.2026.100565",
+   "topic": "GLP-1 & Obesity",
+   "abstract": "BACKGROUND: Cardiometabolic complications drive late morbidity and mortality after heart transplantation. Although glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are established therapies for diabetes and obesity, heart transplant recipients have been excluded from pivotal trials due to concerns regarding gastrointestinal intolerance, altered drug absorption, and possible interactions with ",
+   "keywords": [
+    "Glucagon-like peptide-1 receptor agonists",
+    "Heart transplantation",
+    "Meta-analysis",
+    "Metabolic syndrome"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41916100",
+   "title": "Semaglutide treatment reverses HFD induced hippocampal microglia activation and improves cognitive dysfunction.",
+   "authors": [
+    "Gong H",
+    "Liu J",
+    "Wang Y"
+   ],
+   "journal": "Tissue Cell",
+   "pubDate": "2026 Aug",
+   "doi": "10.1016/j.tice.2026.103495",
+   "topic": "GLP-1 & Obesity",
+   "abstract": "Long-term high-fat diets (HFD) induce obesity, neuroinflammation, and cognitive decline, increasing Alzheimer's disease (AD) risk. This study explores whether Semaglutide, a GLP-1 receptor agonist, mitigates these effects by modulating microglia via IGFBPL-1 and the PI3K/AKT pathway. In HFD-fed C57/BL6 mice, Semaglutide improved cognitive function, reduced hippocampal microglia activation, and dec",
+   "keywords": [
+    "Alzheimer's disease",
+    "IGFBPL-1",
+    "Microglia",
+    "Neural inflammation"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42207966",
+   "title": "Comparative Effectiveness of CagriSegma, Semaglutide, Cagrilintide and Tirzepatide in the Management of Overweight and Obesity: A Network Meta-Analysis of Randomized Clinical Trials.",
+   "authors": [
+    "Hamarsheh S",
+    "Jaber AR",
+    "Abu-Khazneh O"
+   ],
+   "journal": "Endocrinol Diabetes Metab",
+   "pubDate": "2026 Jul",
+   "doi": "10.1002/edm2.70248",
+   "topic": "GLP-1 & Obesity",
+   "abstract": "BACKGROUND: Obesity is a chronic, progressive disease affecting over 1 billion adults worldwide, linked to serious comorbidities, including diabetes, hypertension, and cardiovascular disease and associated with increased mortality. Achieving clinically meaningful weight loss is critical to reducing cardiometabolic risk. Tirzepatide, semaglutide, cagrilintide and their combination (CagriSema) have ",
+   "keywords": [],
+   "pubTypes": [
+    "Journal Article",
+    "Network Meta-Analysis"
+   ]
+  },
+  {
+   "pmid": "42199348",
+   "title": "Modulation of the tumor microenvironment by incretins and glucagon: Metabolic and immune mechanisms (Review).",
+   "authors": [
+    "Hu M",
+    "Jiang CJ",
+    "Yi C"
+   ],
+   "journal": "Exp Ther Med",
+   "pubDate": "2026 Jul",
+   "doi": "10.3892/etm.2026.13178",
+   "topic": "GLP-1 & Obesity",
+   "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) and therapies targeting glucose-dependent insulinotropic polypeptide (GIP) have demonstrated efficacy in the treatment of type 2 diabetes (T2D) and obesity. GLP-1 and GIP are collectively referred to as incretins. The strong epidemiological link between T2D/obesity and cancer risk suggests that GLP-1 and GIP may serve a substantial role in tumor",
+   "keywords": [
+    "GLP-1",
+    "TME",
+    "immune microenvironment",
+    "mechanism"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "42166808",
+   "title": "The glucagon-like peptide-1 receptor agonist, Ex4, reduces intromission in sexually experienced male mice.",
+   "authors": [
+    "Shevchouk O",
+    "Edvardsson CE",
+    "Ericson M"
+   ],
+   "journal": "Psychoneuroendocrinology",
+   "pubDate": "2026 Jul",
+   "doi": "10.1016/j.psyneuen.2026.107893",
+   "topic": "GLP-1 & Obesity",
+   "abstract": "The physiological effects of glucagon-like peptide-1 (GLP-1) are vast, including food and glucose homeostasis. As the half-life is short, both short-acting, exendin-4 (Ex4) and long-acting, liraglutide and dulaglutide, GLP-1 receptor (GLP-1R) agonists have been developed and are approved for type 2 diabetes and/or obesity. They have also been found to reduce behaviors linked to addictive drugs thr",
+   "keywords": [
+    "Preclinical",
+    "Reward",
+    "Sexual behaviors"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42118165",
+   "title": "Absence of autoantibodies linked to cancer and autoimmune disorders 26\u00a0weeks after BNT162b2 boosting in CoronaVac- primed individuals.",
+   "authors": [
+    "Mat Yassim AS",
+    "Mohd Hisham AA",
+    "Mohd Rosdan BS"
+   ],
+   "journal": "Hum Vaccin Immunother",
+   "pubDate": "2026 Dec 31",
+   "doi": "10.1080/21645515.2026.2661499",
+   "topic": "mRNA Cancer Vaccines",
+   "abstract": "Concerns regarding vaccine-associated autoimmunity and activation of cancer-related pathways persist, yet longitudinal proteome-wide evaluations of heterologous COVID-19 vaccination regimens remain limited. Here, we assessed the stability of the human 'autoantibodyome' in 30\u00a0healthy adults receiving a heterologous CoronaVac-BNT162b2 vaccination regimen (inactivated-virus priming followed by an mRN",
+   "keywords": [
+    "COVID-19",
+    "Heterologous vaccination",
+    "human autoantibodyome",
+    "immune homeostasis"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42119359",
+   "title": "RNA-based cancer immunotherapy: Harnessing the power of RNA nanoparticles for melanoma treatment.",
+   "authors": [
+    "Liu X"
+   ],
+   "journal": "Pathol Res Pract",
+   "pubDate": "2026 Aug",
+   "doi": "10.1016/j.prp.2026.156512",
+   "topic": "mRNA Cancer Vaccines",
+   "abstract": "RNA-based cancer immunotherapy has emerged as a next-generation strategy in oncology, harnessing the versatile properties of RNA molecules to activate and modulate antitumor immunity. In melanoma, a highly immunogenic yet evasive malignancy, RNA therapeutics offer promising avenues for overcoming immune resistance, tumor heterogeneity, and treatment failure. Messenger RNA (mRNA) vaccines have led ",
+   "keywords": [
+    "Immunotherapy",
+    "Melanoma",
+    "RNA",
+    "mRNA"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "42000178",
+   "title": "Advances in lipids design for LNP-mediated DNA and RNA delivery.",
+   "authors": [
+    "Zhi D",
+    "Halemaimaiti A",
+    "Dai B"
+   ],
+   "journal": "Adv Colloid Interface Sci",
+   "pubDate": "2026 Aug",
+   "doi": "10.1016/j.cis.2026.103897",
+   "topic": "mRNA Cancer Vaccines",
+   "abstract": "Gene therapy represents a promising strategy for treating a range of diseases. Non-viral gene delivery systems, including lipid nanoparticles (LNPs), polymer micelles, and liposomes, enable the tissue-specific delivery of genetic sequences and promote the expression of functional proteins in target cells. Compared with traditional carriers, LNPs possess distinct, mechanistically supported advantag",
+   "keywords": [
+    "Cancer therapy",
+    "Controlled release",
+    "DNA and RNA delivery",
+    "Immunotherapy"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "42070646",
+   "title": "mRNA vaccines in gastrointestinal cancers: Mechanistic basis, translational challenges, and emerging therapeutic strategies.",
+   "authors": [
+    "Saha S",
+    "Chakraborty S",
+    "Nayak A"
+   ],
+   "journal": "Crit Rev Oncol Hematol",
+   "pubDate": "2026 Jul",
+   "doi": "10.1016/j.critrevonc.2026.105345",
+   "topic": "mRNA Cancer Vaccines",
+   "abstract": "Gastrointestinal (GI) cancers remain a major cause of cancer-related morbidity and mortality. Immunotherapeutic approaches have improved outcomes in selected settings; however, their efficacy in GI malignancies is often constrained by tumor heterogeneity and an immunosuppressive tumor microenvironment. mRNA-based vaccines have emerged as a distinct immunotherapeutic platform, characterized by rapi",
+   "keywords": [
+    "Gastrointestinal (GI) cancers",
+    "MRNA vaccines",
+    "Self-amplifying mRNA (saRNA)",
+    "Trans-amplifying mRNA (taRNA)"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41737632",
+   "title": "Splenic dendritic cell-targeting mRNA transfection of H-type ionizable lipid-based LNPs for enhancing tumor immunotherapy.",
+   "authors": [
+    "Chen X",
+    "Li X",
+    "Yan Y"
+   ],
+   "journal": "Bioact Mater",
+   "pubDate": "2026 Jul",
+   "doi": "10.1016/j.bioactmat.2026.02.018",
+   "topic": "mRNA Cancer Vaccines",
+   "abstract": "Messenger RNA (mRNA) vaccine was emerging as a promising treatment for tumor immunotherapy. Highly efficient antigen-presenting ability in tumor immunotherapy through splenic dendritic cell (DC)-targeting mRNA delivery system was very important, but it remained a great challenge. In this study, a library of gemini-like ionizable lipid (termed H-type ionizable lipid, HIL) was synthesized and used f",
+   "keywords": [
+    "Dendritic cells",
+    "Lipid nanoparticles",
+    "Spleen-targeting",
+    "Tumor immunotherapy"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42068906",
+   "title": "Neoantigen-based T cell vaccines design strategies, therapeutic barriers, and clinical advances.",
+   "authors": [
+    "Shi J",
+    "Wang J",
+    "Luo H"
+   ],
+   "journal": "Vaccine",
+   "pubDate": "2026 Jun 11",
+   "doi": "10.1016/j.vaccine.2026.128659",
+   "topic": "mRNA Cancer Vaccines",
+   "abstract": "Over the past several decades, immunotherapy has emerged as a transformative paradigm in oncology. Within this domain, vaccines targeting tumor-specific neoantigens represent one of the most advanced approaches, engineered to activate the host immune system and elicit potent, antigen-specific T-cell responses. By stimulating both CD8+ cytotoxic and CD4+ helper T cells, these vaccines enable highly",
+   "keywords": [
+    "Clinical advances",
+    "Clinical challenges",
+    "Immunotherapy",
+    "Neoantigen"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41933800",
+   "title": "Biomineralized nanoemulsion delivers mRNA for potent cancer immunotherapy.",
+   "authors": [
+    "Xu Y",
+    "Tang X",
+    "Guo Z"
+   ],
+   "journal": "J Control Release",
+   "pubDate": "2026 Jun 10",
+   "doi": "10.1016/j.jconrel.2026.114889",
+   "topic": "mRNA Cancer Vaccines",
+   "abstract": "mRNA vaccines show great promise in cancer immunotherapy by eliciting potent cellular immune responses. Lipid nanoparticles (LNPs), validated through widespread use in COVID-19 vaccination, have become the most widely studied platform. However, their reliance on PEGylated lipids and tendency for hepatic accumulation may pose limitations for broader applications. To address these concerns, we devel",
+   "keywords": [
+    "Antitumor immunotherapy",
+    "Nanoemulsion",
+    "mRNA vaccine"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41862100",
+   "title": "Harnessing the power of microbiome, nanotechnology, and immunity against cancer.",
+   "authors": [
+    "Cordeiro J",
+    "Macela C",
+    "Kleiner R"
+   ],
+   "journal": "J Control Release",
+   "pubDate": "2026 Jun 10",
+   "doi": "10.1016/j.jconrel.2026.114839",
+   "topic": "mRNA Cancer Vaccines",
+   "abstract": "The human microbiome has emerged as a key player in health and disease, including cancer, which remains one of the leading causes of mortality worldwide. Although advances in understanding the tumor immune microenvironment and the development of immunotherapies have transformed cancer treatment, clinical efficacy remains limited by suboptimal response rates and severe side effects. Recent integrat",
+   "keywords": [
+    "Cancer",
+    "Immunotherapy",
+    "Microbiome",
+    "Nanotechnology"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41941698",
+   "title": "Antigen-specific T-cell responses to SARS-CoV-2 vaccination after hematopoietic cell transplant or CAR T-cell therapy.",
+   "authors": [
+    "Einarsdottir S",
+    "Fei T",
+    "Singh K"
+   ],
+   "journal": "Blood Adv",
+   "pubDate": "2026 Jun 9",
+   "doi": "10.1182/bloodadvances.2026019614",
+   "topic": "mRNA Cancer Vaccines",
+   "abstract": "The optimal timing of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) vaccination after cellular therapies remains uncertain. In a previous prospective multicenter cohort (n = 466), we found no differences in humoral or SARS-CoV-2-specific T-cell receptor (TCR) responses between patients vaccinated early (<4 months) vs later (4-12 months) after allogeneic hematopoietic cell transplant",
+   "keywords": [],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40920359",
+   "title": "A new frontier in oncology: Understanding the landscape of cancer vaccines.",
+   "authors": [
+    "Suvvari TK",
+    "Killi K",
+    "Veggalam S"
+   ],
+   "journal": "J Oncol Pharm Pract",
+   "pubDate": "2026 Jun",
+   "doi": "10.1177/10781552251375363",
+   "topic": "mRNA Cancer Vaccines",
+   "abstract": "Cancer vaccines represent a transformative shift in oncology, aiming to prevent malignancies or treat established cancers by training the immune system to recognize tumor-specific or tumor-associated antigens. This review explores the diverse platforms and mechanisms supporting cancer vaccines, ranging from prophylactic vaccines such as HPV and hepatitis B vaccines that have significantly reduced ",
+   "keywords": [
+    "Cancer vaccines",
+    "clinical trials",
+    "immunotherapy",
+    "oncology"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41863079",
+   "title": "Overcoming the blood\u2012brain barrier: nanomedicine strategies for targeted delivery and multimodal therapy in Alzheimer's disease.",
+   "authors": [
+    "Li J",
+    "Guo L",
+    "Cai W"
+   ],
+   "journal": "Drug Deliv",
+   "pubDate": "2026 Dec 31",
+   "doi": "10.1080/10717544.2026.2645830",
+   "topic": "Alzheimer Amyloid Therapy",
+   "abstract": "Alzheimer's disease (AD) remains a significant therapeutic challenge, primarily because the formidable blood\u2012brain barrier (BBB), which drastically limits the brain bioavailability of most drugs. Nanoparticle-based drug delivery systems offer a promising strategy to overcome this central obstacle. This review systematically examines the design, mechanisms, and applications of nanomedicine in AD th",
+   "keywords": [
+    "Alzheimer's disease",
+    "amyloid-\u03b2",
+    "blood\u2013brain barrier",
+    "drug delivery"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41527932",
+   "title": "A novel Mediterranean diet-inspired supplement reduces hippocampal amyloid deposits and microglial activation through the modulation of the microbiota gut-brain axis in 5xFAD mice.",
+   "authors": [
+    "Connell E",
+    "Le Gall G",
+    "McArthur S"
+   ],
+   "journal": "Gut Microbes",
+   "pubDate": "2026 Dec 31",
+   "doi": "10.1080/19490976.2026.2614030",
+   "topic": "Alzheimer Amyloid Therapy",
+   "abstract": "BACKGROUND: Alzheimer's disease (AD) is projected to increase in prevalence, heightening the need for strategies to alleviate its neuropathological burden. The bioactive constituents of a Mediterranean-style diet are well-recognised for their neuroprotective properties. Due to their capacity to alter the gut microbiome composition, these benefits may involve modulation of the microbiota-gut-brain ",
+   "keywords": [
+    "Mediterranean diet",
+    "amyloid deposits",
+    "brain",
+    "gut microbiome"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42035365",
+   "title": "Therapeutic effects of 40\u2009Hz light stimulation on clinical and pathological features of Alzheimer's disease.",
+   "authors": [
+    "Chou PS",
+    "Chien CF",
+    "Huang LC"
+   ],
+   "journal": "Dialogues Clin Neurosci",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/19585969.2026.2658530",
+   "topic": "Alzheimer Amyloid Therapy",
+   "abstract": "BACKGROUND: Current pharmacological treatments offer only limited benefits in altering the course of Alzheimer's disease (AD). Given these limitations, nonpharmacological interventions have emerged as potential therapeutic strategies. This study investigates the therapeutic effects of 40\u2009Hz light stimulation in AD and analyzes blood biomarkers to explore its potential disease-modifying effects. ME",
+   "keywords": [
+    "Amyloid-beta",
+    "biomarkers",
+    "tau protein",
+    "visual gamma entrainment"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41953054",
+   "title": "tDCS improves early Alzheimer's disease by synaptic vesicle fusion and release.",
+   "authors": [
+    "Zhuang YY",
+    "Yan JM",
+    "Wu TC"
+   ],
+   "journal": "Mil Med Res",
+   "pubDate": "2026 Dec",
+   "doi": "10.1016/j.mmr.2026.100003",
+   "topic": "Alzheimer Amyloid Therapy",
+   "abstract": "BACKGROUND: Working memory deficits, one of the earliest hallmarks of Alzheimer's disease (AD), are closely linked to abnormal neural activity in the dorsolateral prefrontal cortex (DLPFC). Transcranial direct current stimulation (tDCS), a non-invasive neuromodulation therapy, has been shown to ameliorate early AD working memory deficits by modulating excitatory activity in the DLPFC, yet the unde",
+   "keywords": [
+    "Dorsolateral prefrontal cortex (DLPFC)",
+    "Glutamatergic neurons",
+    "Synaptic vesicle transport",
+    "Transcranial direct current stimulation (tDCS)"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41873153",
+   "title": "Discovery of ferulic acid carbamate derivatives as dual-targeting agents of BuChE and Nrf2 for Alzheimer's disease.",
+   "authors": [
+    "Lao K",
+    "Li Y",
+    "Xiao Y"
+   ],
+   "journal": "J Enzyme Inhib Med Chem",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/14756366.2026.2645483",
+   "topic": "Alzheimer Amyloid Therapy",
+   "abstract": "Given the multifactorial aetiology of Alzheimer's disease, multi-target strategies have emerged as a promising therapeutic approach. In this study, we designed and synthesised a series of ferulic acid carbamate derivatives to selectively inhibit BuChE and stimulate Nrf2 pathway. The biological evaluation revealed that compound 5c and 5e were the most potent, exhibiting over 150-fold selectivity fo",
+   "keywords": [
+    "Alzheimer\u2019s disease",
+    "BuChE inhibitor",
+    "Nrf2 pathway",
+    "ferulic acid"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41697767",
+   "title": "Redox modulation contributes to the antidepressant-like and neuroprotective effects of 7-chloro-4-(phenylselanyl)quinoline in an Alzheimer's disease model.",
+   "authors": [
+    "De Oliveira RL",
+    "Pinz MP",
+    "Voss GT"
+   ],
+   "journal": "Redox Rep",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/13510002.2026.2626641",
+   "topic": "Alzheimer Amyloid Therapy",
+   "abstract": "OBJECTIVES: Alzheimer's disease (AD) is characterized by cognitive impairment and neuropsychiatric disturbances, including depression, both tightly linked to redox imbalance and neuroinflammatory activation. This study investigated whether the selenium-containing compound 7-chloro-4-(phenylselanyl)quinoline (4-PSQ) mitigates behavioral and biochemical alterations in a \u03b2-amyloid (A\u03b2)-induced mouse ",
+   "keywords": [
+    "Comorbidity",
+    "antioxidant",
+    "depression",
+    "neuroinflammation"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41645747",
+   "title": "Thymol carbamates bearing cyclic amines as potent and selective BuChE inhibitors alleviate memory impairments for Alzheimer's disease therapy.",
+   "authors": [
+    "Wu C",
+    "Ding Y",
+    "Liu X"
+   ],
+   "journal": "J Enzyme Inhib Med Chem",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/14756366.2026.2623314",
+   "topic": "Alzheimer Amyloid Therapy",
+   "abstract": "Thymol, an isomer of carvacrol, exhibits anti-A\u03b2 activity. Thymol carbamates were designed, and their inhibition on cholinesterase (ChE) activity was assessed and analysed, among them, TC-4, TC-6, H4 and H5 bearing cyclic amines exhibited nanomolar inhibitory activity with IC50 values of 13, 3.6, 47, and 12\u2009nM. TC-6 bearing a piperidinyl moiety demonstrated nanomolar hBuChE inhibition (IC50 = 3.6\u2009",
+   "keywords": [
+    "Alzheimer\u2019s disease",
+    "Thymol",
+    "butyrylcholinesterase",
+    "carbamate"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41574602",
+   "title": "GPR3 in neuro-metabolic-immune-reproductive nexus - a potential therapeutic target for Multi-System diseases.",
+   "authors": [
+    "Feng BD",
+    "Qin JY",
+    "Qin QQ"
+   ],
+   "journal": "Ann Med",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/07853890.2026.2619216",
+   "topic": "Alzheimer Amyloid Therapy",
+   "abstract": "BACKGROUND: GPR3(G-protein-coupled receptor 3), an orphan G-protein-coupled receptor (GPCR) with constitutive Gs activity, is expressed in the brain, liver, ovary, and other tissues, regulating cell proliferation, differentiation, and apoptosis across the nervous, reproductive, immune, and metabolic systems. This review synthesizes evidence on its integrated signaling and physiological functions t",
+   "keywords": [
+    "G protein-coupled receptor",
+    "GPR3",
+    "signal transduction"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "41568664",
+   "title": "Engineering nanobodies for drug delivery systems in Alzheimer's disease.",
+   "authors": [
+    "Jootar T",
+    "Hongeng S",
+    "Chiangjong W"
+   ],
+   "journal": "Artif Cells Nanomed Biotechnol",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/21691401.2026.2617707",
+   "topic": "Alzheimer Amyloid Therapy",
+   "abstract": "Alzheimer's disease (AD) remains a major global health challenge, with current therapies offering only symptomatic relief. A significant constraint in the development of effective treatments is the blood-brain barrier (BBB), as it greatly limits the access of therapeutic drugs targeting amyloid-\u03b2 (A\u03b2) aggregation, tau hyperphosphorylation and neuroinflammation. Nanobodies, single-domain antibody f",
+   "keywords": [
+    "Alzheimer\u2019s disease",
+    "A\u03b2 plaques",
+    "Nanobodies",
+    "blood\u2013brain barrier"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41931967",
+   "title": "Dysfunctional microglia-targeted nanoscavenger synergistically accelerates A\u03b2 clearance and inhibits inflammatory cascade.",
+   "authors": [
+    "Sun X",
+    "Xi Y",
+    "Chen Y"
+   ],
+   "journal": "Biomaterials",
+   "pubDate": "2026 Oct",
+   "doi": "10.1016/j.biomaterials.2026.124163",
+   "topic": "Alzheimer Amyloid Therapy",
+   "abstract": "Amyloid-\u03b2 (A\u03b2) clearance holds promise in Alzheimer's disease (AD) treatment, but the clinical application is limited by poor clearance efficacy and microglial inflammatory cascade caused by overloaded A\u03b2 degradation. In this study, a polymeric lipoprotein-curcumin nanoscavenger (CP/ManDisc-Cur) with dysfunctional microglia-specific targeting capability is designed to synergistically promote A\u03b2 cl",
+   "keywords": [
+    "Alzheimer's disease",
+    "A\u03b2 clearance",
+    "Brain-targeted drug delivery",
+    "Intranasal administration"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42100922",
+   "title": "Machine learning predictions of IgG1 and IgG4 self-association and high-concentration solution properties.",
+   "authors": [
+    "Kwon NY",
+    "Brown CN",
+    "Chen HT"
+   ],
+   "journal": "MAbs",
+   "pubDate": "2026 Dec 31",
+   "doi": "10.1080/19420862.2026.2663641",
+   "topic": "AI Drug Discovery",
+   "abstract": "To meet the widespread demand for subcutaneous delivery of antibody therapeutics, candidates with low viscosity, high solubility, and/or low aggregation propensity in concentrated formulations must be identified. Moreover, early identification of candidates with low self-association increases the likelihood of success at later stages of the development process. Here, we experimentally profile the ",
+   "keywords": [
+    "Aggregation",
+    "electrostatic",
+    "hydrophobic",
+    "isoelectric point"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "42026803",
+   "title": "Gene-level gut microbiome signatures as predictive biomarkers for response to immune checkpoint inhibitors across multiple cancer types.",
+   "authors": [
+    "Zhang F",
+    "Hu K",
+    "Sun C"
+   ],
+   "journal": "Gut Microbes",
+   "pubDate": "2026 Dec 31",
+   "doi": "10.1080/19490976.2026.2662690",
+   "topic": "AI Drug Discovery",
+   "abstract": "Targeting programmed cell death protein 1 (PD-1) and cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) with immune checkpoint inhibitors (ICIs) has improved survival across multiple cancer types, but the variability in patient response highlights the need for better predictive biomarkers. Existing studies rely on taxonomic abundance derived from reference genome databases, limiting the discover",
+   "keywords": [
+    "Immune checkpoint inhibitors",
+    "biological prior knowledge",
+    "combination immune checkpoint blockade",
+    "deep learning"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42011244",
+   "title": "Artificial intelligence-driven discovery of coumarin-based therapeutics: Revolutionizing target identification and validation.",
+   "authors": [
+    "Mustafa YF"
+   ],
+   "journal": "Pharm Sci Adv",
+   "pubDate": "2026 Dec",
+   "doi": "10.1016/j.pscia.2026.100119",
+   "topic": "AI Drug Discovery",
+   "abstract": "Artificial intelligence (AI) has transformed modern drug discovery by reshaping how therapeutic targets are identified, validated, and optimized. Coumarin derivatives, with their diverse pharmacological activities and structural adaptability, offer a rich chemical space for AI-guided exploration. However, despite the potential of integrating AI methodologies with coumarin chemistry to accelerate t",
+   "keywords": [
+    "Artificial intelligence",
+    "Coumarins",
+    "Machine learning",
+    "Molecular docking"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41907305",
+   "title": "Unleashing the power of DNA-encoded libraries for challenging targets in drug discovery.",
+   "authors": [
+    "Du N",
+    "Li Y",
+    "Lou Q"
+   ],
+   "journal": "Pharm Sci Adv",
+   "pubDate": "2026 Dec",
+   "doi": "10.1016/j.pscia.2026.100115",
+   "topic": "AI Drug Discovery",
+   "abstract": "DNA-encoded library (DEL) technology has emerged as a transformative platform in early-stage drug discovery, enabling the rapid and cost-effective exploration of ultra-large chemical spaces. However, identifying ligands for challenging targets characterized by featureless surfaces, high conformational plasticity, or shallow binding sites remains a formidable challenge. While the potential of DEL i",
+   "keywords": [
+    "Challenging targets",
+    "Chemical space",
+    "DNA-Encoded library",
+    "Drug discovery"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41845912",
+   "title": "Exosomes in diabetic kidney disease: pathogenesis, biomarker discovery, and emerging therapeutics-a comprehensive systematic review.",
+   "authors": [
+    "Ding L",
+    "Li Z",
+    "Xia Y"
+   ],
+   "journal": "Ren Fail",
+   "pubDate": "2026 Dec",
+   "doi": "10.1080/0886022X.2026.2640720",
+   "topic": "AI Drug Discovery",
+   "abstract": "Diabetic kidney disease (DKD), characterized by progressive renal dysfunction, is a prevalent microvascular complication of diabetes mellitus and a leading cause of end-stage renal disease worldwide. Despite advances in glycemic and blood pressure control, the incidence and prevalence of DKD continue to escalate, posing a growing public health challenge. Extracellular vesicles, particularly exosom",
+   "keywords": [
+    "Diabetic kidney disease",
+    "drug delivery systems",
+    "exosomes",
+    "extracellular vesicles"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "41782615",
+   "title": "Breaking through the radiation dilemma: development and clinical translation of anti-radiation drugs.",
+   "authors": [
+    "Wang L",
+    "Wang Y",
+    "Wu S"
+   ],
+   "journal": "Pharm Sci Adv",
+   "pubDate": "2026 Dec",
+   "doi": "10.1016/j.pscia.2026.100110",
+   "topic": "AI Drug Discovery",
+   "abstract": "The need for effective prevention and treatment of nuclear radiation injuries is underscored by historical nuclear incidents, ongoing challenges such as nuclear wastewater management, and the expanding use of radiation in medicine and industry. Despite the approval of a limited set of drugs such as potassium iodide, Prussian blue, cytokines for hematopoietic acute radiation syndrome (H-ARS), curre",
+   "keywords": [
+    "Anti-Radiation drugs",
+    "Artificial intelligence",
+    "Machine learning",
+    "Pathogenic mechanism"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41659839",
+   "title": "Big data in healthcare and medicine revisited design and managerial challenges in the age of artificial intelligence.",
+   "authors": [
+    "Raghupathi W",
+    "Raghupathi V"
+   ],
+   "journal": "Health Inf Sci Syst",
+   "pubDate": "2026 Dec",
+   "doi": "10.1007/s13755-026-00433-2",
+   "topic": "AI Drug Discovery",
+   "abstract": "A decade ago, we characterized big data in healthcare as a nascent field anchored in distributed computing paradigms. The intervening years have witnessed a transformation so profound that revisiting our original framework is essential. This paper critically examines the evolution of big data in healthcare and medicine, assessing the shift from Hadoop-centric architectures to cloud computing platf",
+   "keywords": [
+    "Agentic AI",
+    "Algorithmic bias",
+    "Artificial intelligence",
+    "Big data"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41323158",
+   "title": "Reasoning with large language models in medicine: a systematic review of techniques, challenges and clinical integration.",
+   "authors": [
+    "Mansoor I",
+    "Abdullah M",
+    "Rizwan MD"
+   ],
+   "journal": "Health Inf Sci Syst",
+   "pubDate": "2026 Dec",
+   "doi": "10.1007/s13755-025-00403-0",
+   "topic": "AI Drug Discovery",
+   "abstract": "Large Language Models (LLMs) have emerged as transformative tools in healthcare, demonstrating unprecedented capabilities in medical reasoning tasks that require complex inference, pattern recognition, and decision-making under uncertainty. This comprehensive review examines the current state of LLMs applications in medical reasoning across diverse clinical contexts, including diagnostic reasoning",
+   "keywords": [
+    "Clinical decision support",
+    "Diagnostic reasoning",
+    "Healthcare artificial intelligence",
+    "Large language models"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41996874",
+   "title": "A review on AI-enabled drug design in medicinal chemistry: Analytical validation, challenges, and regulatory considerations.",
+   "authors": [
+    "Kumar S",
+    "Misra SK",
+    "Tiwari A"
+   ],
+   "journal": "Talanta",
+   "pubDate": "2026 Oct 1",
+   "doi": "10.1016/j.talanta.2026.129802",
+   "topic": "AI Drug Discovery",
+   "abstract": "Artificial intelligence, particularly machine learning, has profoundly reshaped drug discovery, addressing longstanding challenges such as exorbitant costs and protracted timelines. Conventional approaches often exceed $2.6 billion per drug over 12-15 years, with attrition rates nearing 90%; AI mitigates these through advanced target identification, high-throughput virtual screening, and generativ",
+   "keywords": [
+    "Analytical integrity spectrum",
+    "Data quality",
+    "Drug discovery",
+    "Experimental validation"
+   ],
+   "pubTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "42119260",
+   "title": "SENET-AOP: A computational framework model for prioritizing antioxidant protein targets in drug discovery.",
+   "authors": [
+    "Chen S",
+    "Zhu Y",
+    "Liu J"
+   ],
+   "journal": "Eur J Med Chem",
+   "pubDate": "2026 Sep 15",
+   "doi": "10.1016/j.ejmech.2026.118945",
+   "topic": "AI Drug Discovery",
+   "abstract": "Oxidative stress is closely associated with aging and a wide range of major diseases, including cancers, neurodegenerative disorders, and inflammatory conditions. Antioxidant proteins therefore constitute important functional biomolecules and potential therapeutic targets in drug discovery. Accurate and efficient identification of antioxidant proteins is thus of relevance for biomedical research a",
+   "keywords": [
+    "Antioxidant proteins",
+    "Drug discovery",
+    "Protein language models",
+    "SENet network"
+   ],
+   "pubTypes": [
+    "Journal Article"
+   ]
+  }
+ ],
+ "topics": [
+  "CRISPR Gene Therapy",
+  "GLP-1 & Obesity",
+  "mRNA Cancer Vaccines",
+  "Alzheimer Amyloid Therapy",
+  "AI Drug Discovery"
+ ],
+ "totalResults": {
+  "CRISPR Gene Therapy": 10283,
+  "GLP-1 & Obesity": 6026,
+  "mRNA Cancer Vaccines": 1994,
+  "Alzheimer Amyloid Therapy": 25548,
+  "AI Drug Discovery": 10128
+ }
+}
